@@ -1,0 +1,2001 @@
+complaint_id,date,category,channel,severity,resolution_days,csat,repeat_contact,month
+CMP-01141,2026-05-01,Refund delay,Email,Low,3.6,4,False,2026-05
+CMP-00838,2026-05-01,Product / service quality,Chat,Low,2.1,4,False,2026-05
+CMP-00599,2026-05-01,Product / service quality,Email,High,15.5,1,False,2026-05
+CMP-00283,2026-05-01,Late delivery,Chat,Low,2.0,3,True,2026-05
+CMP-00309,2026-05-01,Late delivery,Email,Low,4.5,3,False,2026-05
+CMP-01178,2026-05-01,Account access,Email,Medium,0.9,5,False,2026-05
+CMP-01972,2026-05-01,Account access,Email,High,1.2,3,False,2026-05
+CMP-00796,2026-05-01,Refund delay,Email,Low,9.1,1,True,2026-05
+CMP-01175,2026-05-01,Poor agent communication,Phone,Low,1.9,5,False,2026-05
+CMP-01495,2026-05-02,Billing error,Email,Low,5.6,3,True,2026-05
+CMP-00818,2026-05-02,Billing error,Phone,Low,2.1,4,False,2026-05
+CMP-01301,2026-05-02,Billing error,Phone,Medium,1.9,5,False,2026-05
+CMP-00675,2026-05-03,Refund delay,Chat,Low,5.1,4,False,2026-05
+CMP-00086,2026-05-03,Product / service quality,Social media,Medium,3.0,5,True,2026-05
+CMP-00031,2026-05-03,Refund delay,Phone,Medium,4.0,4,False,2026-05
+CMP-00264,2026-05-03,Late delivery,Email,Medium,2.2,3,False,2026-05
+CMP-00844,2026-05-03,Late delivery,Chat,High,3.5,4,False,2026-05
+CMP-00049,2026-05-03,Refund delay,Phone,Low,2.1,3,False,2026-05
+CMP-00187,2026-05-03,Late delivery,Phone,Low,2.0,3,False,2026-05
+CMP-01774,2026-05-03,Refund delay,Email,Medium,6.0,3,True,2026-05
+CMP-00022,2026-05-03,Late delivery,Chat,High,8.6,3,False,2026-05
+CMP-00835,2026-05-03,Late delivery,Social media,Low,3.0,4,False,2026-05
+CMP-00847,2026-05-03,Refund delay,Social media,Low,4.3,5,True,2026-05
+CMP-01842,2026-05-03,Product / service quality,Phone,High,2.6,4,True,2026-05
+CMP-00664,2026-05-03,Late delivery,Phone,Medium,1.5,4,False,2026-05
+CMP-00837,2026-05-03,Product / service quality,Email,High,2.2,4,False,2026-05
+CMP-00797,2026-05-03,Billing error,Chat,Medium,1.5,4,False,2026-05
+CMP-01986,2026-05-03,Late delivery,Email,Low,7.6,4,True,2026-05
+CMP-01796,2026-05-04,Poor agent communication,Email,Low,2.0,5,False,2026-05
+CMP-00577,2026-05-04,Product / service quality,Email,Low,2.8,3,False,2026-05
+CMP-00771,2026-05-04,Account access,Phone,Low,0.6,5,False,2026-05
+CMP-01343,2026-05-04,Billing error,Email,Low,2.3,4,False,2026-05
+CMP-01327,2026-05-04,Account access,Phone,Medium,0.8,4,False,2026-05
+CMP-01149,2026-05-04,Late delivery,Chat,Low,2.6,4,False,2026-05
+CMP-00824,2026-05-04,Refund delay,Phone,Medium,6.4,3,False,2026-05
+CMP-01511,2026-05-04,Billing error,Phone,Medium,3.1,4,False,2026-05
+CMP-00154,2026-05-04,Product / service quality,Phone,Medium,11.6,2,True,2026-05
+CMP-00964,2026-05-04,Late delivery,Phone,Medium,4.7,3,True,2026-05
+CMP-01304,2026-05-04,Refund delay,Chat,Medium,7.3,3,False,2026-05
+CMP-00089,2026-05-04,Billing error,Phone,Low,2.9,4,False,2026-05
+CMP-00703,2026-05-04,Refund delay,Phone,Medium,2.9,4,False,2026-05
+CMP-00390,2026-05-04,Poor agent communication,Social media,High,2.2,4,False,2026-05
+CMP-00367,2026-05-05,Billing error,Email,High,1.7,4,True,2026-05
+CMP-01077,2026-05-05,Billing error,Email,Medium,1.9,4,False,2026-05
+CMP-00947,2026-05-05,Billing error,Chat,Low,1.8,5,False,2026-05
+CMP-00308,2026-05-05,Billing error,Email,Medium,2.0,4,True,2026-05
+CMP-01218,2026-05-05,Poor agent communication,Phone,Low,0.7,4,False,2026-05
+CMP-00437,2026-05-05,Billing error,Chat,Medium,3.5,3,False,2026-05
+CMP-01324,2026-05-05,Refund delay,Email,Low,2.2,4,False,2026-05
+CMP-00389,2026-05-05,Poor agent communication,Social media,Medium,1.8,4,False,2026-05
+CMP-00589,2026-05-05,Refund delay,Chat,Low,2.0,4,True,2026-05
+CMP-00469,2026-05-06,Billing error,Social media,Medium,1.7,4,False,2026-05
+CMP-00769,2026-05-06,Product / service quality,Chat,Low,7.3,2,True,2026-05
+CMP-01507,2026-05-06,Product / service quality,Phone,Low,2.5,5,False,2026-05
+CMP-00066,2026-05-06,Late delivery,Chat,Medium,3.3,4,False,2026-05
+CMP-01429,2026-05-06,Late delivery,Phone,Low,3.5,3,False,2026-05
+CMP-01890,2026-05-06,Billing error,Email,Medium,2.3,3,False,2026-05
+CMP-01042,2026-05-06,Late delivery,Phone,Low,0.8,3,False,2026-05
+CMP-01213,2026-05-06,Product / service quality,Phone,Low,1.9,4,False,2026-05
+CMP-01781,2026-05-06,Product / service quality,Phone,Low,0.9,5,True,2026-05
+CMP-00681,2026-05-06,Late delivery,Email,Medium,5.3,4,False,2026-05
+CMP-01965,2026-05-06,Late delivery,Phone,Medium,5.3,3,False,2026-05
+CMP-01199,2026-05-06,Late delivery,Phone,High,3.2,5,False,2026-05
+CMP-01135,2026-05-06,Account access,Chat,Low,1.7,3,False,2026-05
+CMP-00337,2026-05-06,Poor agent communication,Email,Medium,0.9,3,False,2026-05
+CMP-01196,2026-05-06,Refund delay,Chat,Medium,6.4,1,False,2026-05
+CMP-00600,2026-05-07,Billing error,Email,Low,2.2,4,False,2026-05
+CMP-00242,2026-05-07,Late delivery,Email,Medium,2.7,5,False,2026-05
+CMP-00361,2026-05-07,Late delivery,Phone,High,3.8,5,False,2026-05
+CMP-00353,2026-05-07,Late delivery,Email,Medium,2.5,4,False,2026-05
+CMP-01085,2026-05-07,Late delivery,Chat,Medium,2.9,4,False,2026-05
+CMP-00620,2026-05-07,Product / service quality,Email,Medium,7.9,2,False,2026-05
+CMP-01369,2026-05-07,Billing error,Social media,Low,1.2,2,False,2026-05
+CMP-01267,2026-05-07,Poor agent communication,Phone,Medium,1.5,3,False,2026-05
+CMP-00092,2026-05-07,Poor agent communication,Email,Low,1.4,5,False,2026-05
+CMP-01210,2026-05-08,Account access,Phone,High,1.7,4,False,2026-05
+CMP-01506,2026-05-08,Billing error,Phone,Low,1.8,5,True,2026-05
+CMP-00919,2026-05-08,Late delivery,Email,Medium,3.3,3,False,2026-05
+CMP-00107,2026-05-08,Refund delay,Chat,Medium,5.0,3,False,2026-05
+CMP-01379,2026-05-08,Account access,Phone,High,0.8,5,False,2026-05
+CMP-00944,2026-05-08,Account access,Email,Low,1.2,5,True,2026-05
+CMP-01189,2026-05-08,Refund delay,Chat,Medium,2.5,4,False,2026-05
+CMP-01603,2026-05-08,Late delivery,Phone,Medium,2.0,3,False,2026-05
+CMP-00421,2026-05-08,Refund delay,Chat,Medium,9.6,1,False,2026-05
+CMP-01364,2026-05-08,Account access,Chat,Medium,1.6,5,False,2026-05
+CMP-01173,2026-05-08,Late delivery,Email,Low,2.1,5,False,2026-05
+CMP-01288,2026-05-08,Refund delay,Email,Low,7.9,2,False,2026-05
+CMP-00726,2026-05-08,Late delivery,Phone,Medium,3.5,2,True,2026-05
+CMP-00543,2026-05-08,Product / service quality,Chat,Low,1.9,3,False,2026-05
+CMP-00540,2026-05-09,Refund delay,Email,Low,3.7,4,False,2026-05
+CMP-01241,2026-05-09,Late delivery,Phone,High,3.8,4,False,2026-05
+CMP-00618,2026-05-09,Late delivery,Chat,Low,2.8,4,True,2026-05
+CMP-01666,2026-05-09,Billing error,Chat,Low,1.4,3,False,2026-05
+CMP-01547,2026-05-09,Billing error,Email,Low,2.4,4,False,2026-05
+CMP-00993,2026-05-09,Product / service quality,Phone,Medium,8.4,2,False,2026-05
+CMP-01914,2026-05-09,Refund delay,Social media,Medium,2.1,3,False,2026-05
+CMP-01144,2026-05-09,Billing error,Chat,High,2.6,5,False,2026-05
+CMP-01349,2026-05-09,Late delivery,Social media,Low,2.7,2,False,2026-05
+CMP-00205,2026-05-09,Refund delay,Email,Medium,3.8,4,False,2026-05
+CMP-01089,2026-05-09,Late delivery,Email,Medium,5.1,3,False,2026-05
+CMP-00572,2026-05-09,Late delivery,Phone,Low,2.6,4,False,2026-05
+CMP-00170,2026-05-09,Account access,Social media,Medium,1.9,5,True,2026-05
+CMP-00454,2026-05-09,Product / service quality,Phone,Low,1.9,5,True,2026-05
+CMP-01921,2026-05-09,Billing error,Phone,Medium,0.6,4,False,2026-05
+CMP-00001,2026-05-10,Product / service quality,Email,Low,2.8,3,True,2026-05
+CMP-00190,2026-05-10,Late delivery,Phone,Low,2.0,5,False,2026-05
+CMP-00231,2026-05-10,Billing error,Chat,Medium,3.4,2,False,2026-05
+CMP-00034,2026-05-10,Late delivery,Social media,Medium,3.3,4,False,2026-05
+CMP-00799,2026-05-10,Product / service quality,Chat,Medium,5.5,3,False,2026-05
+CMP-01348,2026-05-10,Billing error,Phone,Medium,1.0,3,False,2026-05
+CMP-01145,2026-05-10,Late delivery,Email,High,2.0,3,False,2026-05
+CMP-01216,2026-05-11,Product / service quality,Email,Low,2.9,4,False,2026-05
+CMP-01276,2026-05-11,Billing error,Email,Low,2.0,3,False,2026-05
+CMP-01904,2026-05-11,Product / service quality,Chat,Medium,2.4,4,False,2026-05
+CMP-00391,2026-05-11,Product / service quality,Email,Low,7.1,2,False,2026-05
+CMP-01608,2026-05-11,Billing error,Chat,Medium,0.9,5,False,2026-05
+CMP-01421,2026-05-11,Billing error,Phone,Medium,2.2,3,False,2026-05
+CMP-01691,2026-05-11,Late delivery,Phone,Low,1.1,4,True,2026-05
+CMP-00143,2026-05-12,Billing error,Phone,Low,2.2,3,False,2026-05
+CMP-00141,2026-05-12,Product / service quality,Email,High,8.0,3,True,2026-05
+CMP-00506,2026-05-12,Billing error,Phone,Low,2.1,3,False,2026-05
+CMP-00329,2026-05-12,Late delivery,Phone,Low,3.1,3,False,2026-05
+CMP-01236,2026-05-12,Late delivery,Phone,Medium,1.2,4,False,2026-05
+CMP-00959,2026-05-12,Refund delay,Social media,Low,4.5,3,True,2026-05
+CMP-00282,2026-05-12,Billing error,Email,Medium,1.4,3,False,2026-05
+CMP-01211,2026-05-12,Poor agent communication,Phone,Low,0.7,5,False,2026-05
+CMP-01874,2026-05-12,Billing error,Phone,Medium,0.8,4,True,2026-05
+CMP-00811,2026-05-12,Account access,Chat,Medium,0.4,4,False,2026-05
+CMP-01719,2026-05-12,Late delivery,Email,Low,5.8,3,True,2026-05
+CMP-00813,2026-05-12,Account access,Email,High,1.9,4,False,2026-05
+CMP-00757,2026-05-12,Late delivery,Phone,Medium,1.7,3,False,2026-05
+CMP-00855,2026-05-13,Account access,Chat,Low,0.9,5,True,2026-05
+CMP-00005,2026-05-13,Billing error,Chat,Medium,1.4,4,True,2026-05
+CMP-00892,2026-05-13,Account access,Phone,Low,0.5,5,False,2026-05
+CMP-00351,2026-05-13,Late delivery,Social media,Medium,3.4,3,False,2026-05
+CMP-00861,2026-05-13,Refund delay,Email,Low,4.0,4,True,2026-05
+CMP-00290,2026-05-13,Account access,Email,Low,2.1,4,False,2026-05
+CMP-01688,2026-05-13,Billing error,Phone,Medium,1.3,4,False,2026-05
+CMP-00080,2026-05-13,Late delivery,Chat,Low,4.7,4,False,2026-05
+CMP-01807,2026-05-13,Billing error,Email,Low,1.0,5,False,2026-05
+CMP-00513,2026-05-13,Late delivery,Phone,Low,3.6,5,False,2026-05
+CMP-01758,2026-05-13,Late delivery,Social media,Medium,5.1,3,False,2026-05
+CMP-01092,2026-05-14,Refund delay,Phone,Low,3.0,4,False,2026-05
+CMP-00374,2026-05-14,Account access,Phone,Medium,0.6,5,False,2026-05
+CMP-00518,2026-05-14,Product / service quality,Phone,Low,3.9,3,True,2026-05
+CMP-01761,2026-05-14,Billing error,Email,Low,4.2,4,False,2026-05
+CMP-01925,2026-05-14,Poor agent communication,Chat,Medium,4.4,3,False,2026-05
+CMP-00830,2026-05-14,Billing error,Chat,Low,2.3,4,False,2026-05
+CMP-01902,2026-05-14,Poor agent communication,Phone,Medium,2.4,5,False,2026-05
+CMP-01715,2026-05-14,Refund delay,Email,Low,9.1,1,True,2026-05
+CMP-00479,2026-05-14,Billing error,Phone,Medium,1.5,3,False,2026-05
+CMP-01678,2026-05-14,Billing error,Chat,Low,2.8,4,False,2026-05
+CMP-00055,2026-05-14,Billing error,Phone,Medium,1.6,4,False,2026-05
+CMP-00710,2026-05-15,Refund delay,Chat,Medium,11.2,2,False,2026-05
+CMP-01514,2026-05-15,Refund delay,Email,Medium,12.3,1,True,2026-05
+CMP-00953,2026-05-15,Poor agent communication,Phone,Medium,2.6,3,False,2026-05
+CMP-00296,2026-05-15,Account access,Email,High,2.1,4,True,2026-05
+CMP-00461,2026-05-15,Billing error,Chat,Medium,0.8,5,False,2026-05
+CMP-01409,2026-05-15,Poor agent communication,Social media,High,1.2,5,False,2026-05
+CMP-00984,2026-05-15,Late delivery,Social media,Low,0.6,4,False,2026-05
+CMP-01361,2026-05-15,Billing error,Phone,Low,1.8,4,True,2026-05
+CMP-00304,2026-05-15,Product / service quality,Email,Medium,6.6,2,False,2026-05
+CMP-01570,2026-05-15,Late delivery,Social media,Low,5.2,4,False,2026-05
+CMP-00061,2026-05-15,Refund delay,Email,High,2.8,4,False,2026-05
+CMP-00508,2026-05-15,Refund delay,Email,Low,2.4,4,False,2026-05
+CMP-01523,2026-05-15,Poor agent communication,Phone,High,0.4,5,False,2026-05
+CMP-01820,2026-05-15,Billing error,Email,High,3.8,4,False,2026-05
+CMP-00009,2026-05-15,Poor agent communication,Email,Low,1.2,4,False,2026-05
+CMP-00118,2026-05-15,Late delivery,Chat,Low,1.6,3,False,2026-05
+CMP-01096,2026-05-15,Refund delay,Social media,High,7.0,2,False,2026-05
+CMP-01856,2026-05-15,Refund delay,Phone,Medium,3.8,4,True,2026-05
+CMP-00405,2026-05-15,Late delivery,Chat,Low,2.3,3,False,2026-05
+CMP-01690,2026-05-15,Poor agent communication,Social media,Low,1.2,4,False,2026-05
+CMP-00635,2026-05-15,Poor agent communication,Phone,Low,1.7,4,False,2026-05
+CMP-00761,2026-05-15,Billing error,Email,Medium,3.3,5,False,2026-05
+CMP-00966,2026-05-16,Refund delay,Email,Low,3.9,3,True,2026-05
+CMP-00632,2026-05-16,Poor agent communication,Phone,Medium,0.4,5,False,2026-05
+CMP-00531,2026-05-16,Late delivery,Social media,Low,4.2,3,False,2026-05
+CMP-01550,2026-05-16,Late delivery,Phone,High,2.3,4,False,2026-05
+CMP-01401,2026-05-16,Billing error,Phone,High,0.7,3,True,2026-05
+CMP-01759,2026-05-16,Account access,Email,High,1.3,4,True,2026-05
+CMP-00786,2026-05-16,Late delivery,Phone,Medium,3.4,3,False,2026-05
+CMP-00815,2026-05-16,Billing error,Email,Medium,1.2,5,False,2026-05
+CMP-01872,2026-05-16,Product / service quality,Chat,Low,2.8,3,True,2026-05
+CMP-00851,2026-05-16,Account access,Email,Low,2.0,5,False,2026-05
+CMP-00345,2026-05-16,Late delivery,Phone,High,1.8,5,False,2026-05
+CMP-00780,2026-05-16,Late delivery,Chat,High,2.2,4,False,2026-05
+CMP-01595,2026-05-16,Account access,Email,Low,1.1,3,False,2026-05
+CMP-00228,2026-05-16,Product / service quality,Chat,High,1.3,3,False,2026-05
+CMP-01377,2026-05-16,Refund delay,Chat,Medium,4.0,3,False,2026-05
+CMP-00380,2026-05-16,Account access,Phone,Low,0.4,3,False,2026-05
+CMP-01370,2026-05-16,Billing error,Phone,Low,1.8,3,False,2026-05
+CMP-01018,2026-05-17,Billing error,Social media,Low,2.0,4,False,2026-05
+CMP-00756,2026-05-17,Billing error,Email,Low,1.7,4,False,2026-05
+CMP-00252,2026-05-17,Refund delay,Social media,Medium,4.2,5,False,2026-05
+CMP-00250,2026-05-17,Billing error,Phone,High,1.5,4,False,2026-05
+CMP-01101,2026-05-17,Poor agent communication,Email,Medium,1.2,4,False,2026-05
+CMP-01075,2026-05-17,Billing error,Chat,High,2.3,4,False,2026-05
+CMP-00491,2026-05-17,Billing error,Chat,Low,0.6,5,False,2026-05
+CMP-01410,2026-05-17,Product / service quality,Social media,Low,5.9,2,False,2026-05
+CMP-01524,2026-05-17,Product / service quality,Email,Medium,5.7,3,True,2026-05
+CMP-01784,2026-05-17,Billing error,Social media,Low,2.3,4,False,2026-05
+CMP-00657,2026-05-17,Billing error,Email,Medium,2.4,4,False,2026-05
+CMP-00373,2026-05-17,Account access,Chat,Medium,0.5,4,False,2026-05
+CMP-01717,2026-05-18,Billing error,Chat,Medium,2.3,4,True,2026-05
+CMP-00142,2026-05-18,Refund delay,Email,High,8.5,2,False,2026-05
+CMP-00841,2026-05-18,Late delivery,Phone,High,4.1,5,True,2026-05
+CMP-00759,2026-05-18,Late delivery,Phone,Medium,1.1,5,False,2026-05
+CMP-00267,2026-05-18,Account access,Email,Medium,2.2,4,False,2026-05
+CMP-01269,2026-05-18,Billing error,Phone,Medium,0.8,5,False,2026-05
+CMP-00871,2026-05-18,Billing error,Email,Low,4.6,3,False,2026-05
+CMP-01315,2026-05-18,Refund delay,Phone,Medium,2.5,4,False,2026-05
+CMP-01007,2026-05-18,Billing error,Social media,Medium,2.3,4,False,2026-05
+CMP-01590,2026-05-19,Billing error,Email,Medium,2.3,4,False,2026-05
+CMP-00400,2026-05-19,Refund delay,Phone,High,1.9,3,False,2026-05
+CMP-00446,2026-05-19,Billing error,Email,High,4.5,3,False,2026-05
+CMP-01083,2026-05-19,Account access,Social media,Low,1.3,4,False,2026-05
+CMP-01519,2026-05-19,Billing error,Email,Medium,3.2,4,False,2026-05
+CMP-00911,2026-05-19,Product / service quality,Phone,Medium,2.0,4,False,2026-05
+CMP-01465,2026-05-19,Account access,Phone,Medium,0.6,5,False,2026-05
+CMP-01116,2026-05-19,Poor agent communication,Email,Medium,1.6,5,False,2026-05
+CMP-00197,2026-05-19,Late delivery,Phone,Low,1.3,5,False,2026-05
+CMP-01073,2026-05-19,Billing error,Phone,Low,0.9,5,False,2026-05
+CMP-01372,2026-05-19,Product / service quality,Chat,Low,3.9,3,True,2026-05
+CMP-00644,2026-05-19,Product / service quality,Email,Low,4.8,3,False,2026-05
+CMP-00028,2026-05-19,Account access,Email,High,1.2,4,False,2026-05
+CMP-00084,2026-05-20,Late delivery,Social media,Low,1.9,3,True,2026-05
+CMP-01984,2026-05-20,Billing error,Email,High,2.3,3,True,2026-05
+CMP-00897,2026-05-20,Product / service quality,Phone,Low,2.6,5,False,2026-05
+CMP-00604,2026-05-20,Late delivery,Social media,Medium,0.9,4,False,2026-05
+CMP-00932,2026-05-20,Billing error,Chat,Medium,1.2,5,False,2026-05
+CMP-00633,2026-05-20,Late delivery,Chat,Low,2.2,4,False,2026-05
+CMP-01204,2026-05-20,Account access,Email,Low,0.7,5,False,2026-05
+CMP-00232,2026-05-20,Product / service quality,Email,High,3.8,3,False,2026-05
+CMP-00817,2026-05-20,Refund delay,Chat,Medium,3.2,4,False,2026-05
+CMP-01404,2026-05-20,Poor agent communication,Email,Low,0.9,4,False,2026-05
+CMP-01673,2026-05-20,Late delivery,Chat,Medium,4.2,2,False,2026-05
+CMP-00668,2026-05-20,Account access,Phone,Medium,0.9,4,True,2026-05
+CMP-00387,2026-05-20,Account access,Chat,Medium,0.8,4,False,2026-05
+CMP-01281,2026-05-20,Late delivery,Chat,Low,1.5,4,False,2026-05
+CMP-00210,2026-05-20,Late delivery,Email,Medium,6.1,3,False,2026-05
+CMP-01983,2026-05-20,Poor agent communication,Chat,Low,0.7,4,False,2026-05
+CMP-01087,2026-05-21,Late delivery,Chat,High,2.3,4,True,2026-05
+CMP-01365,2026-05-21,Billing error,Phone,High,3.0,3,True,2026-05
+CMP-00614,2026-05-21,Billing error,Email,High,0.7,5,False,2026-05
+CMP-00258,2026-05-21,Product / service quality,Chat,High,8.0,2,False,2026-05
+CMP-00287,2026-05-21,Late delivery,Phone,High,3.0,5,False,2026-05
+CMP-01821,2026-05-21,Poor agent communication,Email,Low,1.1,4,False,2026-05
+CMP-01795,2026-05-21,Billing error,Chat,Medium,2.6,3,False,2026-05
+CMP-00840,2026-05-21,Product / service quality,Chat,Low,1.5,4,True,2026-05
+CMP-01425,2026-05-21,Product / service quality,Email,Medium,8.4,2,False,2026-05
+CMP-00996,2026-05-21,Account access,Email,High,2.8,3,False,2026-05
+CMP-00467,2026-05-21,Poor agent communication,Phone,Low,2.2,3,False,2026-05
+CMP-01490,2026-05-21,Product / service quality,Chat,High,5.4,3,False,2026-05
+CMP-01004,2026-05-22,Refund delay,Phone,Medium,3.5,5,False,2026-05
+CMP-00755,2026-05-22,Late delivery,Email,High,6.4,2,False,2026-05
+CMP-01104,2026-05-22,Poor agent communication,Phone,Medium,1.0,5,False,2026-05
+CMP-00067,2026-05-22,Billing error,Phone,Medium,1.9,3,False,2026-05
+CMP-00487,2026-05-22,Billing error,Social media,Low,1.1,5,True,2026-05
+CMP-00833,2026-05-22,Billing error,Chat,Low,2.7,4,False,2026-05
+CMP-00097,2026-05-22,Late delivery,Email,High,4.2,4,False,2026-05
+CMP-00782,2026-05-22,Refund delay,Social media,Medium,6.8,5,True,2026-05
+CMP-01652,2026-05-22,Product / service quality,Chat,Medium,6.8,3,False,2026-05
+CMP-01220,2026-05-22,Late delivery,Phone,Low,3.3,4,True,2026-05
+CMP-00778,2026-05-22,Refund delay,Email,Medium,3.7,3,False,2026-05
+CMP-01170,2026-05-22,Refund delay,Phone,Low,3.5,4,True,2026-05
+CMP-01117,2026-05-23,Late delivery,Phone,Medium,2.3,5,False,2026-05
+CMP-01323,2026-05-23,Late delivery,Email,Medium,4.3,2,False,2026-05
+CMP-00565,2026-05-23,Late delivery,Chat,Low,1.2,5,False,2026-05
+CMP-00046,2026-05-23,Product / service quality,Email,Low,7.3,2,True,2026-05
+CMP-01614,2026-05-23,Refund delay,Email,High,3.5,3,True,2026-05
+CMP-00672,2026-05-23,Late delivery,Email,Low,3.0,5,False,2026-05
+CMP-00516,2026-05-23,Billing error,Email,Medium,3.0,4,False,2026-05
+CMP-00343,2026-05-23,Product / service quality,Phone,Low,2.2,4,False,2026-05
+CMP-00948,2026-05-23,Poor agent communication,Chat,Medium,1.9,5,False,2026-05
+CMP-01499,2026-05-23,Refund delay,Phone,Low,6.6,1,False,2026-05
+CMP-01553,2026-05-23,Billing error,Chat,Low,4.0,3,False,2026-05
+CMP-01028,2026-05-23,Billing error,Chat,Low,3.1,3,True,2026-05
+CMP-01601,2026-05-24,Poor agent communication,Chat,Low,0.8,4,False,2026-05
+CMP-00541,2026-05-24,Account access,Phone,Medium,0.6,5,False,2026-05
+CMP-00652,2026-05-24,Late delivery,Social media,Low,6.5,4,True,2026-05
+CMP-01739,2026-05-24,Late delivery,Chat,High,1.4,4,False,2026-05
+CMP-00372,2026-05-24,Late delivery,Phone,Low,3.1,2,False,2026-05
+CMP-01476,2026-05-24,Refund delay,Phone,Low,1.7,4,False,2026-05
+CMP-01939,2026-05-24,Product / service quality,Chat,Low,1.2,5,False,2026-05
+CMP-01933,2026-05-24,Billing error,Email,Medium,2.8,4,True,2026-05
+CMP-01347,2026-05-24,Late delivery,Social media,Medium,1.6,4,False,2026-05
+CMP-00307,2026-05-25,Billing error,Email,Medium,3.6,3,True,2026-05
+CMP-01451,2026-05-25,Billing error,Chat,Medium,2.8,3,False,2026-05
+CMP-01588,2026-05-25,Billing error,Chat,High,2.9,4,False,2026-05
+CMP-00724,2026-05-25,Late delivery,Phone,High,2.4,4,False,2026-05
+CMP-00741,2026-05-25,Billing error,Email,Medium,2.8,3,False,2026-05
+CMP-00670,2026-05-25,Refund delay,Email,Low,8.0,3,False,2026-05
+CMP-01427,2026-05-25,Late delivery,Phone,High,0.9,4,False,2026-05
+CMP-00321,2026-05-25,Account access,Email,High,0.2,3,False,2026-05
+CMP-01870,2026-05-25,Late delivery,Chat,Medium,1.8,2,False,2026-05
+CMP-00579,2026-05-25,Poor agent communication,Email,High,1.7,4,False,2026-05
+CMP-00206,2026-05-25,Late delivery,Phone,Medium,3.3,3,False,2026-05
+CMP-01345,2026-05-25,Late delivery,Chat,High,3.6,4,False,2026-05
+CMP-00950,2026-05-25,Product / service quality,Social media,Low,8.2,2,True,2026-05
+CMP-01485,2026-05-25,Late delivery,Phone,Medium,3.0,4,False,2026-05
+CMP-00784,2026-05-25,Account access,Email,High,1.0,5,False,2026-05
+CMP-01106,2026-05-25,Account access,Phone,Low,0.5,4,False,2026-05
+CMP-00485,2026-05-26,Billing error,Social media,High,1.4,3,False,2026-05
+CMP-01252,2026-05-26,Late delivery,Chat,Medium,2.8,4,False,2026-05
+CMP-01884,2026-05-26,Poor agent communication,Phone,Medium,0.8,4,False,2026-05
+CMP-00452,2026-05-26,Product / service quality,Phone,Medium,3.9,2,True,2026-05
+CMP-00120,2026-05-26,Poor agent communication,Email,Medium,2.1,3,False,2026-05
+CMP-01333,2026-05-26,Billing error,Email,Medium,3.4,4,True,2026-05
+CMP-00060,2026-05-26,Refund delay,Chat,High,4.3,4,False,2026-05
+CMP-00133,2026-05-26,Billing error,Chat,Medium,1.4,4,False,2026-05
+CMP-00523,2026-05-26,Late delivery,Phone,Low,1.4,5,False,2026-05
+CMP-01626,2026-05-27,Late delivery,Phone,Low,2.9,4,False,2026-05
+CMP-01956,2026-05-27,Late delivery,Chat,Medium,1.9,3,False,2026-05
+CMP-01651,2026-05-27,Product / service quality,Email,Low,10.1,1,False,2026-05
+CMP-01030,2026-05-27,Billing error,Chat,High,1.2,5,False,2026-05
+CMP-00010,2026-05-27,Billing error,Email,Low,5.4,4,False,2026-05
+CMP-00365,2026-05-27,Product / service quality,Phone,Low,4.7,4,True,2026-05
+CMP-01222,2026-05-27,Late delivery,Email,High,2.1,4,False,2026-05
+CMP-00821,2026-05-27,Late delivery,Email,Low,1.1,3,False,2026-05
+CMP-01181,2026-05-27,Refund delay,Chat,Medium,1.3,4,False,2026-05
+CMP-01604,2026-05-27,Late delivery,Phone,Low,2.0,3,False,2026-05
+CMP-01480,2026-05-27,Poor agent communication,Phone,Medium,3.5,3,False,2026-05
+CMP-00273,2026-05-27,Billing error,Phone,Low,2.3,2,False,2026-05
+CMP-01452,2026-05-27,Late delivery,Email,Low,2.4,4,False,2026-05
+CMP-01306,2026-05-27,Late delivery,Social media,Low,3.2,4,False,2026-05
+CMP-01055,2026-05-27,Poor agent communication,Chat,Medium,1.1,4,False,2026-05
+CMP-01908,2026-05-28,Product / service quality,Chat,Medium,1.8,5,False,2026-05
+CMP-00147,2026-05-28,Late delivery,Phone,Low,1.9,4,False,2026-05
+CMP-00306,2026-05-28,Billing error,Phone,Medium,1.7,5,False,2026-05
+CMP-01395,2026-05-28,Billing error,Chat,Medium,1.7,5,False,2026-05
+CMP-01017,2026-05-28,Refund delay,Chat,Low,4.4,3,False,2026-05
+CMP-00556,2026-05-28,Billing error,Phone,Low,1.5,4,False,2026-05
+CMP-01049,2026-05-28,Poor agent communication,Chat,Medium,2.8,4,False,2026-05
+CMP-00790,2026-05-28,Billing error,Email,Low,1.5,4,True,2026-05
+CMP-01115,2026-05-28,Product / service quality,Email,Low,5.1,4,False,2026-05
+CMP-01858,2026-05-29,Late delivery,Chat,High,0.8,5,False,2026-05
+CMP-00740,2026-05-29,Late delivery,Chat,Medium,2.3,4,False,2026-05
+CMP-00128,2026-05-29,Billing error,Phone,Low,1.2,4,True,2026-05
+CMP-00831,2026-05-29,Poor agent communication,Email,High,2.0,4,False,2026-05
+CMP-00037,2026-05-29,Billing error,Email,Low,2.9,4,False,2026-05
+CMP-01125,2026-05-29,Account access,Email,Medium,2.1,4,False,2026-05
+CMP-00904,2026-05-29,Poor agent communication,Chat,Medium,3.0,3,False,2026-05
+CMP-01127,2026-05-29,Poor agent communication,Phone,Medium,1.9,4,False,2026-05
+CMP-00515,2026-05-29,Poor agent communication,Social media,Low,1.5,4,False,2026-05
+CMP-01880,2026-05-29,Late delivery,Chat,High,2.4,5,False,2026-05
+CMP-00507,2026-05-29,Billing error,Social media,Low,2.1,4,False,2026-05
+CMP-01290,2026-05-29,Billing error,Phone,Low,1.7,3,False,2026-05
+CMP-00554,2026-05-30,Late delivery,Phone,Low,3.5,4,False,2026-05
+CMP-01146,2026-05-30,Billing error,Phone,Low,1.4,4,False,2026-05
+CMP-00731,2026-05-30,Late delivery,Email,Medium,8.2,2,False,2026-05
+CMP-00725,2026-05-30,Late delivery,Chat,Low,2.6,4,False,2026-05
+CMP-00943,2026-05-30,Account access,Email,Low,1.4,5,False,2026-05
+CMP-00867,2026-05-30,Late delivery,Email,High,7.3,3,True,2026-05
+CMP-01046,2026-05-30,Billing error,Email,Low,1.7,4,False,2026-05
+CMP-00660,2026-05-30,Late delivery,Social media,Low,2.3,4,True,2026-05
+CMP-00777,2026-05-30,Billing error,Email,Medium,4.6,2,False,2026-05
+CMP-00789,2026-05-30,Late delivery,Chat,Low,1.3,4,False,2026-05
+CMP-01302,2026-05-30,Product / service quality,Chat,Low,3.5,4,True,2026-05
+CMP-00233,2026-05-30,Poor agent communication,Email,Medium,2.3,4,False,2026-05
+CMP-01346,2026-05-30,Refund delay,Chat,Medium,3.4,4,False,2026-05
+CMP-01998,2026-05-30,Poor agent communication,Email,Low,4.4,4,False,2026-05
+CMP-00003,2026-05-30,Poor agent communication,Social media,Low,2.1,4,False,2026-05
+CMP-00123,2026-05-30,Poor agent communication,Phone,Low,1.1,5,False,2026-05
+CMP-00475,2026-05-31,Refund delay,Chat,Medium,4.9,2,False,2026-05
+CMP-00284,2026-05-31,Refund delay,Email,Medium,2.5,4,True,2026-05
+CMP-01871,2026-05-31,Poor agent communication,Phone,Low,1.6,4,False,2026-05
+CMP-01320,2026-05-31,Billing error,Email,Medium,3.3,3,False,2026-05
+CMP-00313,2026-05-31,Refund delay,Email,Medium,12.7,1,True,2026-05
+CMP-01645,2026-05-31,Billing error,Chat,Medium,1.0,4,False,2026-05
+CMP-00074,2026-05-31,Product / service quality,Chat,Low,2.8,4,False,2026-05
+CMP-00488,2026-05-31,Refund delay,Phone,Medium,4.0,5,False,2026-05
+CMP-01374,2026-05-31,Billing error,Chat,Medium,2.0,3,True,2026-05
+CMP-01696,2026-05-31,Late delivery,Chat,Medium,0.9,3,False,2026-05
+CMP-00008,2026-05-31,Poor agent communication,Chat,Medium,2.2,4,False,2026-05
+CMP-00227,2026-05-31,Product / service quality,Email,Low,11.9,1,True,2026-05
+CMP-01225,2026-05-31,Refund delay,Chat,High,6.2,4,False,2026-05
+CMP-01529,2026-06-01,Product / service quality,Email,Low,2.1,4,False,2026-06
+CMP-00711,2026-06-01,Poor agent communication,Email,Low,1.4,5,False,2026-06
+CMP-01478,2026-06-01,Product / service quality,Email,Medium,5.6,3,True,2026-06
+CMP-01003,2026-06-01,Product / service quality,Phone,Low,4.1,4,False,2026-06
+CMP-01817,2026-06-01,Billing error,Email,Low,6.2,3,True,2026-06
+CMP-00910,2026-06-01,Late delivery,Chat,High,0.7,4,False,2026-06
+CMP-01308,2026-06-01,Poor agent communication,Chat,High,3.4,3,False,2026-06
+CMP-00218,2026-06-01,Poor agent communication,Email,Medium,4.9,3,True,2026-06
+CMP-01676,2026-06-01,Late delivery,Chat,Medium,2.2,4,False,2026-06
+CMP-00819,2026-06-01,Billing error,Phone,High,0.8,5,False,2026-06
+CMP-00270,2026-06-02,Poor agent communication,Phone,High,0.5,4,False,2026-06
+CMP-00971,2026-06-02,Late delivery,Phone,Medium,2.1,4,False,2026-06
+CMP-01620,2026-06-02,Product / service quality,Email,Medium,3.3,4,True,2026-06
+CMP-01275,2026-06-02,Product / service quality,Social media,High,9.9,1,True,2026-06
+CMP-00346,2026-06-02,Account access,Phone,Medium,0.8,5,False,2026-06
+CMP-00408,2026-06-02,Poor agent communication,Social media,Medium,1.5,5,False,2026-06
+CMP-01221,2026-06-02,Product / service quality,Phone,Medium,9.5,2,False,2026-06
+CMP-00900,2026-06-02,Late delivery,Chat,Medium,3.1,3,False,2026-06
+CMP-00718,2026-06-02,Refund delay,Phone,Medium,1.9,3,False,2026-06
+CMP-00280,2026-06-03,Poor agent communication,Chat,High,1.4,4,False,2026-06
+CMP-01494,2026-06-03,Billing error,Email,Medium,6.3,2,False,2026-06
+CMP-01854,2026-06-03,Billing error,Social media,Low,3.3,3,False,2026-06
+CMP-01671,2026-06-03,Refund delay,Chat,Low,3.8,4,False,2026-06
+CMP-01194,2026-06-03,Billing error,Phone,Medium,2.1,5,False,2026-06
+CMP-00891,2026-06-04,Late delivery,Email,Medium,4.0,4,True,2026-06
+CMP-00530,2026-06-04,Billing error,Phone,Low,1.3,4,False,2026-06
+CMP-01806,2026-06-04,Late delivery,Email,Low,3.9,4,False,2026-06
+CMP-01238,2026-06-04,Refund delay,Chat,Low,4.6,3,False,2026-06
+CMP-00294,2026-06-04,Product / service quality,Social media,Medium,3.6,5,False,2026-06
+CMP-01767,2026-06-04,Product / service quality,Chat,Medium,4.7,3,False,2026-06
+CMP-01974,2026-06-04,Product / service quality,Email,Low,6.8,2,False,2026-06
+CMP-01841,2026-06-04,Account access,Email,Medium,2.5,4,False,2026-06
+CMP-00713,2026-06-04,Refund delay,Phone,High,8.4,2,True,2026-06
+CMP-00858,2026-06-04,Account access,Chat,Low,0.3,4,False,2026-06
+CMP-01058,2026-06-05,Late delivery,Chat,Medium,2.3,3,False,2026-06
+CMP-00603,2026-06-05,Billing error,Chat,Low,1.1,4,True,2026-06
+CMP-00355,2026-06-05,Late delivery,Chat,Medium,1.5,3,False,2026-06
+CMP-01700,2026-06-05,Poor agent communication,Email,Medium,0.7,5,False,2026-06
+CMP-01431,2026-06-05,Account access,Email,Medium,1.0,4,False,2026-06
+CMP-00423,2026-06-05,Late delivery,Chat,Low,1.1,4,False,2026-06
+CMP-01738,2026-06-05,Account access,Email,Medium,0.9,5,False,2026-06
+CMP-01207,2026-06-05,Late delivery,Social media,Low,2.8,4,True,2026-06
+CMP-00899,2026-06-05,Refund delay,Email,Low,4.9,3,False,2026-06
+CMP-00524,2026-06-05,Refund delay,Chat,Low,13.5,1,False,2026-06
+CMP-01317,2026-06-05,Billing error,Email,Low,1.5,4,False,2026-06
+CMP-00169,2026-06-05,Billing error,Email,Medium,2.1,3,False,2026-06
+CMP-01368,2026-06-05,Refund delay,Phone,High,14.6,1,False,2026-06
+CMP-01899,2026-06-06,Account access,Chat,Medium,0.4,4,False,2026-06
+CMP-01766,2026-06-06,Account access,Chat,Medium,0.7,4,False,2026-06
+CMP-01159,2026-06-06,Product / service quality,Email,Medium,5.0,3,False,2026-06
+CMP-00237,2026-06-06,Product / service quality,Email,Low,3.9,5,False,2026-06
+CMP-00989,2026-06-06,Late delivery,Chat,Low,4.5,2,False,2026-06
+CMP-01772,2026-06-06,Poor agent communication,Chat,Low,0.9,5,False,2026-06
+CMP-00207,2026-06-06,Poor agent communication,Email,Medium,1.1,4,False,2026-06
+CMP-00658,2026-06-06,Billing error,Chat,Low,2.3,3,False,2026-06
+CMP-01432,2026-06-06,Late delivery,Social media,Medium,4.2,3,True,2026-06
+CMP-00933,2026-06-06,Account access,Phone,High,0.5,4,False,2026-06
+CMP-00245,2026-06-06,Late delivery,Phone,Low,0.9,4,False,2026-06
+CMP-01449,2026-06-06,Poor agent communication,Social media,Medium,1.0,3,False,2026-06
+CMP-01552,2026-06-07,Refund delay,Email,Low,4.7,4,True,2026-06
+CMP-01630,2026-06-07,Late delivery,Social media,Low,3.2,3,False,2026-06
+CMP-01563,2026-06-07,Product / service quality,Email,Low,5.3,3,False,2026-06
+CMP-00582,2026-06-07,Account access,Chat,Low,1.6,4,False,2026-06
+CMP-00134,2026-06-07,Billing error,Phone,Medium,5.6,2,False,2026-06
+CMP-01628,2026-06-07,Late delivery,Chat,Low,3.5,3,True,2026-06
+CMP-01212,2026-06-07,Late delivery,Chat,Medium,0.8,3,False,2026-06
+CMP-01750,2026-06-07,Billing error,Chat,Low,0.7,5,False,2026-06
+CMP-01166,2026-06-07,Poor agent communication,Email,Medium,1.5,3,False,2026-06
+CMP-01102,2026-06-07,Product / service quality,Email,High,3.1,3,False,2026-06
+CMP-01167,2026-06-07,Billing error,Phone,Low,3.5,2,False,2026-06
+CMP-01086,2026-06-07,Refund delay,Social media,Medium,9.8,1,False,2026-06
+CMP-00650,2026-06-07,Account access,Email,Medium,1.0,4,False,2026-06
+CMP-01229,2026-06-07,Account access,Chat,Medium,0.5,5,False,2026-06
+CMP-01928,2026-06-07,Refund delay,Chat,Medium,4.6,2,False,2026-06
+CMP-01889,2026-06-08,Product / service quality,Chat,Medium,4.7,3,True,2026-06
+CMP-00923,2026-06-08,Refund delay,Social media,Low,7.4,3,False,2026-06
+CMP-00648,2026-06-08,Billing error,Chat,Medium,2.7,3,False,2026-06
+CMP-01960,2026-06-08,Refund delay,Email,High,15.1,1,False,2026-06
+CMP-01801,2026-06-08,Refund delay,Chat,Medium,3.0,3,False,2026-06
+CMP-01927,2026-06-08,Billing error,Email,Medium,3.3,3,True,2026-06
+CMP-00011,2026-06-08,Billing error,Email,Low,5.0,3,True,2026-06
+CMP-00527,2026-06-08,Late delivery,Phone,Medium,6.6,3,True,2026-06
+CMP-01164,2026-06-08,Billing error,Phone,Medium,1.1,3,False,2026-06
+CMP-01422,2026-06-08,Billing error,Chat,Medium,0.4,4,False,2026-06
+CMP-00298,2026-06-08,Poor agent communication,Chat,Medium,2.3,4,False,2026-06
+CMP-01188,2026-06-08,Refund delay,Social media,Low,6.2,3,True,2026-06
+CMP-00727,2026-06-09,Poor agent communication,Phone,Low,0.9,4,False,2026-06
+CMP-00951,2026-06-09,Refund delay,Phone,Medium,8.1,2,True,2026-06
+CMP-01171,2026-06-09,Late delivery,Phone,High,2.5,4,False,2026-06
+CMP-00297,2026-06-09,Account access,Phone,Low,0.9,5,True,2026-06
+CMP-01091,2026-06-09,Billing error,Phone,Low,1.4,3,False,2026-06
+CMP-01769,2026-06-09,Poor agent communication,Social media,Medium,1.7,4,False,2026-06
+CMP-00293,2026-06-09,Poor agent communication,Email,Low,2.4,3,False,2026-06
+CMP-00557,2026-06-09,Account access,Chat,Medium,0.5,5,True,2026-06
+CMP-01132,2026-06-10,Billing error,Social media,Medium,1.9,3,False,2026-06
+CMP-00872,2026-06-10,Late delivery,Chat,High,3.6,3,True,2026-06
+CMP-00320,2026-06-10,Poor agent communication,Email,Low,1.0,4,False,2026-06
+CMP-01446,2026-06-10,Account access,Email,Medium,1.6,4,False,2026-06
+CMP-01718,2026-06-10,Billing error,Email,Medium,3.7,3,False,2026-06
+CMP-01537,2026-06-10,Billing error,Email,Medium,0.9,5,False,2026-06
+CMP-00942,2026-06-11,Billing error,Phone,Medium,1.4,4,True,2026-06
+CMP-00907,2026-06-11,Late delivery,Email,Medium,3.0,4,False,2026-06
+CMP-01344,2026-06-11,Refund delay,Chat,Low,2.5,4,False,2026-06
+CMP-00736,2026-06-11,Refund delay,Chat,Medium,7.7,3,False,2026-06
+CMP-01371,2026-06-11,Poor agent communication,Chat,Medium,2.2,4,False,2026-06
+CMP-01036,2026-06-11,Account access,Email,Medium,0.8,3,True,2026-06
+CMP-00845,2026-06-11,Billing error,Chat,Medium,2.3,5,False,2026-06
+CMP-00550,2026-06-11,Late delivery,Email,High,1.9,4,False,2026-06
+CMP-00785,2026-06-11,Product / service quality,Phone,Medium,5.6,4,True,2026-06
+CMP-01929,2026-06-11,Poor agent communication,Email,Low,3.5,4,False,2026-06
+CMP-01731,2026-06-11,Product / service quality,Email,Medium,5.6,3,True,2026-06
+CMP-00729,2026-06-12,Late delivery,Chat,Medium,1.3,5,False,2026-06
+CMP-00585,2026-06-12,Late delivery,Chat,Medium,7.7,4,False,2026-06
+CMP-00553,2026-06-12,Late delivery,Phone,Low,3.5,3,True,2026-06
+CMP-00299,2026-06-12,Poor agent communication,Social media,Medium,0.5,4,False,2026-06
+CMP-00465,2026-06-12,Poor agent communication,Email,Low,3.2,3,False,2026-06
+CMP-00712,2026-06-13,Late delivery,Chat,Low,1.1,5,False,2026-06
+CMP-00305,2026-06-13,Product / service quality,Chat,Medium,3.5,3,False,2026-06
+CMP-00456,2026-06-13,Billing error,Chat,Medium,1.0,3,False,2026-06
+CMP-01598,2026-06-13,Refund delay,Chat,Medium,4.3,3,False,2026-06
+CMP-00647,2026-06-13,Product / service quality,Chat,Low,3.0,3,False,2026-06
+CMP-01274,2026-06-13,Billing error,Email,Low,6.3,2,False,2026-06
+CMP-01582,2026-06-13,Product / service quality,Email,Medium,3.6,5,False,2026-06
+CMP-01095,2026-06-13,Billing error,Phone,Low,2.1,3,False,2026-06
+CMP-01522,2026-06-13,Late delivery,Email,Low,1.5,4,False,2026-06
+CMP-01657,2026-06-14,Billing error,Chat,Medium,3.4,4,False,2026-06
+CMP-00444,2026-06-14,Poor agent communication,Chat,Medium,1.3,4,False,2026-06
+CMP-00532,2026-06-14,Late delivery,Chat,Low,3.1,4,True,2026-06
+CMP-01967,2026-06-14,Billing error,Email,Low,4.5,3,False,2026-06
+CMP-01922,2026-06-14,Product / service quality,Email,Low,12.6,1,True,2026-06
+CMP-01248,2026-06-14,Refund delay,Chat,Medium,4.2,4,True,2026-06
+CMP-01816,2026-06-14,Account access,Email,Low,3.1,3,False,2026-06
+CMP-01897,2026-06-14,Product / service quality,Email,High,9.0,3,True,2026-06
+CMP-00155,2026-06-15,Product / service quality,Chat,Medium,7.5,3,False,2026-06
+CMP-00526,2026-06-15,Product / service quality,Phone,Medium,6.0,3,True,2026-06
+CMP-00291,2026-06-15,Late delivery,Phone,Medium,2.2,4,False,2026-06
+CMP-00259,2026-06-15,Refund delay,Email,Low,7.8,2,False,2026-06
+CMP-00384,2026-06-15,Late delivery,Chat,Medium,2.0,3,False,2026-06
+CMP-01930,2026-06-15,Billing error,Chat,Low,2.4,5,False,2026-06
+CMP-00804,2026-06-15,Billing error,Email,Medium,4.0,3,True,2026-06
+CMP-01179,2026-06-15,Refund delay,Email,Low,2.9,4,False,2026-06
+CMP-00549,2026-06-15,Refund delay,Email,Low,3.4,3,False,2026-06
+CMP-01013,2026-06-15,Late delivery,Email,Low,2.1,4,False,2026-06
+CMP-00109,2026-06-16,Billing error,Phone,Medium,0.7,5,False,2026-06
+CMP-01283,2026-06-16,Billing error,Social media,High,0.7,5,False,2026-06
+CMP-00171,2026-06-16,Billing error,Email,Low,1.0,4,False,2026-06
+CMP-01390,2026-06-16,Billing error,Email,Low,2.3,3,False,2026-06
+CMP-01653,2026-06-16,Late delivery,Email,Medium,2.5,4,True,2026-06
+CMP-01909,2026-06-16,Account access,Chat,Medium,1.0,5,True,2026-06
+CMP-00036,2026-06-16,Late delivery,Chat,Medium,3.0,4,True,2026-06
+CMP-01655,2026-06-16,Refund delay,Email,Medium,3.5,4,False,2026-06
+CMP-00278,2026-06-16,Product / service quality,Email,Medium,3.5,4,True,2026-06
+CMP-01566,2026-06-16,Poor agent communication,Email,Low,5.9,3,False,2026-06
+CMP-01403,2026-06-16,Poor agent communication,Phone,Medium,1.0,5,False,2026-06
+CMP-00215,2026-06-16,Poor agent communication,Email,Low,3.8,3,True,2026-06
+CMP-01554,2026-06-16,Late delivery,Email,High,1.0,4,False,2026-06
+CMP-00791,2026-06-17,Account access,Email,Medium,0.6,5,True,2026-06
+CMP-00203,2026-06-17,Refund delay,Email,High,3.8,4,False,2026-06
+CMP-01386,2026-06-17,Billing error,Phone,Medium,3.2,3,False,2026-06
+CMP-00221,2026-06-17,Account access,Phone,Low,0.4,5,False,2026-06
+CMP-00459,2026-06-17,Product / service quality,Phone,High,1.1,4,False,2026-06
+CMP-00653,2026-06-17,Product / service quality,Email,Low,6.5,3,True,2026-06
+CMP-00888,2026-06-17,Late delivery,Phone,Low,4.5,3,True,2026-06
+CMP-01844,2026-06-17,Billing error,Chat,Low,2.1,4,True,2026-06
+CMP-01325,2026-06-17,Product / service quality,Chat,Medium,3.9,4,False,2026-06
+CMP-00514,2026-06-17,Product / service quality,Chat,Medium,1.3,4,False,2026-06
+CMP-01548,2026-06-17,Poor agent communication,Chat,High,1.0,4,False,2026-06
+CMP-00574,2026-06-17,Account access,Phone,Low,1.2,4,True,2026-06
+CMP-00348,2026-06-18,Account access,Chat,Low,1.0,4,False,2026-06
+CMP-01442,2026-06-18,Billing error,Email,High,4.0,3,True,2026-06
+CMP-01044,2026-06-18,Refund delay,Phone,Low,9.3,2,True,2026-06
+CMP-00551,2026-06-18,Billing error,Chat,Medium,1.9,4,True,2026-06
+CMP-00775,2026-06-18,Late delivery,Chat,Medium,2.1,4,False,2026-06
+CMP-00981,2026-06-18,Billing error,Phone,High,2.0,4,False,2026-06
+CMP-00426,2026-06-18,Account access,Email,Low,0.8,4,False,2026-06
+CMP-01255,2026-06-18,Account access,Email,Medium,0.5,4,False,2026-06
+CMP-01994,2026-06-18,Product / service quality,Chat,Low,6.1,4,False,2026-06
+CMP-00265,2026-06-18,Late delivery,Phone,Medium,3.6,3,False,2026-06
+CMP-01533,2026-06-18,Product / service quality,Chat,Medium,5.8,3,False,2026-06
+CMP-01892,2026-06-19,Billing error,Email,Medium,2.4,4,False,2026-06
+CMP-01822,2026-06-19,Late delivery,Phone,High,4.5,3,True,2026-06
+CMP-01958,2026-06-19,Account access,Chat,Medium,0.7,5,True,2026-06
+CMP-00641,2026-06-19,Billing error,Chat,Medium,0.7,5,False,2026-06
+CMP-00334,2026-06-19,Late delivery,Social media,Low,1.5,4,True,2026-06
+CMP-01126,2026-06-19,Poor agent communication,Social media,Low,1.0,5,False,2026-06
+CMP-00209,2026-06-19,Poor agent communication,Chat,Low,1.7,4,False,2026-06
+CMP-01747,2026-06-19,Late delivery,Phone,Low,2.5,5,False,2026-06
+CMP-00848,2026-06-19,Late delivery,Social media,High,2.8,4,False,2026-06
+CMP-00110,2026-06-20,Refund delay,Chat,Low,3.8,5,False,2026-06
+CMP-01150,2026-06-20,Billing error,Chat,Low,2.2,3,False,2026-06
+CMP-01074,2026-06-20,Billing error,Email,Medium,2.5,5,False,2026-06
+CMP-01031,2026-06-20,Refund delay,Chat,Medium,5.5,3,False,2026-06
+CMP-00462,2026-06-20,Product / service quality,Email,Medium,2.7,3,False,2026-06
+CMP-01596,2026-06-20,Poor agent communication,Email,Medium,2.2,5,False,2026-06
+CMP-00158,2026-06-20,Billing error,Phone,Medium,1.9,5,False,2026-06
+CMP-01654,2026-06-20,Account access,Email,Low,4.0,3,False,2026-06
+CMP-00176,2026-06-20,Billing error,Email,Medium,2.4,3,False,2026-06
+CMP-01720,2026-06-20,Billing error,Email,High,3.0,4,False,2026-06
+CMP-01790,2026-06-21,Account access,Social media,Medium,2.8,3,True,2026-06
+CMP-00375,2026-06-21,Late delivery,Email,Low,2.1,4,True,2026-06
+CMP-00428,2026-06-21,Billing error,Email,Medium,2.9,5,False,2026-06
+CMP-01951,2026-06-21,Refund delay,Email,Medium,5.7,3,False,2026-06
+CMP-00827,2026-06-21,Late delivery,Chat,Low,4.1,3,False,2026-06
+CMP-01521,2026-06-21,Late delivery,Social media,Medium,6.0,4,True,2026-06
+CMP-01579,2026-06-21,Account access,Phone,Medium,0.6,5,False,2026-06
+CMP-00978,2026-06-21,Poor agent communication,Phone,Low,1.9,5,False,2026-06
+CMP-00829,2026-06-22,Billing error,Email,High,1.7,5,False,2026-06
+CMP-01079,2026-06-22,Billing error,Phone,High,2.4,4,True,2026-06
+CMP-00412,2026-06-22,Product / service quality,Email,Low,5.4,4,True,2026-06
+CMP-01711,2026-06-22,Refund delay,Social media,Medium,4.3,3,True,2026-06
+CMP-01378,2026-06-22,Poor agent communication,Social media,Low,1.8,4,False,2026-06
+CMP-01168,2026-06-22,Poor agent communication,Email,Medium,4.4,3,False,2026-06
+CMP-00087,2026-06-23,Refund delay,Social media,High,6.1,3,False,2026-06
+CMP-01825,2026-06-23,Poor agent communication,Chat,Low,1.5,4,False,2026-06
+CMP-01961,2026-06-23,Billing error,Phone,Medium,1.7,5,False,2026-06
+CMP-01919,2026-06-23,Late delivery,Email,Medium,2.7,4,True,2026-06
+CMP-00402,2026-06-23,Account access,Email,Medium,1.1,4,False,2026-06
+CMP-00144,2026-06-23,Poor agent communication,Email,Low,1.9,4,False,2026-06
+CMP-00597,2026-06-23,Late delivery,Chat,Low,2.2,3,False,2026-06
+CMP-00581,2026-06-23,Account access,Chat,Low,1.2,5,False,2026-06
+CMP-01380,2026-06-24,Product / service quality,Phone,Low,2.6,5,False,2026-06
+CMP-00014,2026-06-24,Billing error,Phone,Medium,1.0,3,False,2026-06
+CMP-01957,2026-06-24,Poor agent communication,Email,Medium,1.7,4,False,2026-06
+CMP-00621,2026-06-24,Late delivery,Social media,High,3.4,3,False,2026-06
+CMP-01394,2026-06-24,Product / service quality,Chat,Low,4.2,4,False,2026-06
+CMP-01724,2026-06-24,Late delivery,Email,Medium,3.6,5,False,2026-06
+CMP-00114,2026-06-24,Account access,Phone,Low,1.6,4,True,2026-06
+CMP-00916,2026-06-24,Late delivery,Email,Low,2.8,3,False,2026-06
+CMP-01585,2026-06-24,Billing error,Chat,Low,4.4,3,True,2026-06
+CMP-00905,2026-06-24,Product / service quality,Chat,High,2.5,3,True,2026-06
+CMP-01798,2026-06-24,Account access,Chat,Medium,1.5,4,False,2026-06
+CMP-01190,2026-06-24,Account access,Email,Low,1.6,5,False,2026-06
+CMP-01923,2026-06-24,Billing error,Phone,Low,1.9,5,False,2026-06
+CMP-00578,2026-06-24,Refund delay,Chat,Medium,2.2,4,False,2026-06
+CMP-00013,2026-06-25,Late delivery,Phone,Low,2.1,4,False,2026-06
+CMP-01093,2026-06-25,Poor agent communication,Chat,Low,1.2,4,False,2026-06
+CMP-01670,2026-06-25,Billing error,Chat,Medium,1.2,4,True,2026-06
+CMP-01388,2026-06-25,Late delivery,Phone,High,5.5,3,False,2026-06
+CMP-00533,2026-06-25,Billing error,Social media,Low,6.2,4,False,2026-06
+CMP-00685,2026-06-25,Late delivery,Social media,Medium,6.7,2,False,2026-06
+CMP-00480,2026-06-25,Late delivery,Phone,High,1.2,4,False,2026-06
+CMP-01791,2026-06-25,Late delivery,Email,Low,5.0,4,False,2026-06
+CMP-01491,2026-06-25,Billing error,Email,High,2.6,3,True,2026-06
+CMP-01540,2026-06-25,Late delivery,Chat,Medium,1.9,4,True,2026-06
+CMP-00693,2026-06-25,Billing error,Email,High,4.4,4,False,2026-06
+CMP-00132,2026-06-26,Refund delay,Email,Medium,5.3,3,True,2026-06
+CMP-01419,2026-06-26,Late delivery,Email,Low,3.1,4,False,2026-06
+CMP-01797,2026-06-26,Late delivery,Email,Low,2.0,5,False,2026-06
+CMP-00683,2026-06-26,Billing error,Chat,Low,0.9,5,False,2026-06
+CMP-01639,2026-06-26,Late delivery,Social media,Medium,4.0,4,False,2026-06
+CMP-00070,2026-06-26,Late delivery,Email,Low,2.2,4,False,2026-06
+CMP-01745,2026-06-26,Billing error,Chat,Medium,2.6,5,False,2026-06
+CMP-01230,2026-06-26,Account access,Chat,Medium,0.4,5,False,2026-06
+CMP-01638,2026-06-26,Poor agent communication,Phone,Medium,0.6,4,False,2026-06
+CMP-00440,2026-06-26,Late delivery,Phone,Medium,2.3,4,True,2026-06
+CMP-01481,2026-06-27,Late delivery,Email,Low,3.5,3,False,2026-06
+CMP-01392,2026-06-27,Late delivery,Phone,Medium,1.3,5,False,2026-06
+CMP-01571,2026-06-27,Refund delay,Phone,Medium,7.8,3,True,2026-06
+CMP-01617,2026-06-27,Poor agent communication,Phone,Medium,2.8,3,False,2026-06
+CMP-01840,2026-06-27,Poor agent communication,Phone,Medium,2.3,3,False,2026-06
+CMP-01000,2026-06-27,Late delivery,Social media,Medium,2.7,4,False,2026-06
+CMP-00493,2026-06-27,Account access,Email,Medium,1.5,4,False,2026-06
+CMP-00211,2026-06-27,Billing error,Email,High,2.2,4,False,2026-06
+CMP-01292,2026-06-28,Billing error,Phone,Medium,1.4,4,False,2026-06
+CMP-01332,2026-06-28,Billing error,Phone,Medium,0.6,3,False,2026-06
+CMP-01322,2026-06-28,Billing error,Phone,Low,0.3,5,False,2026-06
+CMP-01891,2026-06-28,Refund delay,Email,Low,2.9,5,False,2026-06
+CMP-00520,2026-06-28,Product / service quality,Phone,Medium,8.1,3,False,2026-06
+CMP-01685,2026-06-28,Late delivery,Phone,Low,2.9,5,False,2026-06
+CMP-00401,2026-06-28,Billing error,Email,Low,2.3,5,True,2026-06
+CMP-01154,2026-06-28,Account access,Email,Medium,1.7,4,False,2026-06
+CMP-01857,2026-06-28,Refund delay,Email,Medium,2.5,3,False,2026-06
+CMP-00806,2026-06-28,Account access,Chat,Medium,0.4,3,False,2026-06
+CMP-00189,2026-06-28,Late delivery,Phone,Medium,3.5,3,True,2026-06
+CMP-01964,2026-06-29,Refund delay,Social media,Low,5.0,2,False,2026-06
+CMP-00277,2026-06-29,Late delivery,Email,Low,5.9,2,False,2026-06
+CMP-01852,2026-06-29,Product / service quality,Email,High,5.1,4,True,2026-06
+CMP-00202,2026-06-29,Product / service quality,Email,Low,9.4,2,True,2026-06
+CMP-01114,2026-06-29,Refund delay,Chat,Medium,3.7,2,False,2026-06
+CMP-00927,2026-06-29,Product / service quality,Chat,Medium,1.4,4,False,2026-06
+CMP-00191,2026-06-29,Late delivery,Chat,Medium,7.0,2,False,2026-06
+CMP-00007,2026-06-29,Late delivery,Phone,Low,1.5,5,False,2026-06
+CMP-01850,2026-06-30,Account access,Social media,Low,1.5,5,False,2026-06
+CMP-01838,2026-06-30,Late delivery,Chat,Low,5.2,4,False,2026-06
+CMP-00356,2026-06-30,Late delivery,Email,Medium,4.4,3,False,2026-06
+CMP-01070,2026-06-30,Product / service quality,Social media,Medium,7.2,3,True,2026-06
+CMP-00747,2026-06-30,Poor agent communication,Social media,Medium,1.7,4,False,2026-06
+CMP-01534,2026-06-30,Billing error,Email,Medium,1.7,3,False,2026-06
+CMP-00748,2026-06-30,Late delivery,Email,Low,2.0,4,False,2026-06
+CMP-00542,2026-06-30,Product / service quality,Phone,Low,3.2,3,True,2026-06
+CMP-00573,2026-06-30,Account access,Phone,Medium,0.8,4,False,2026-06
+CMP-01357,2026-06-30,Late delivery,Email,Low,4.7,4,True,2026-06
+CMP-00051,2026-06-30,Billing error,Phone,Medium,0.9,4,False,2026-06
+CMP-01450,2026-06-30,Product / service quality,Email,Medium,9.3,2,True,2026-06
+CMP-00692,2026-07-01,Late delivery,Email,Medium,1.1,5,False,2026-07
+CMP-00546,2026-07-01,Billing error,Email,Low,1.5,4,False,2026-07
+CMP-01575,2026-07-01,Late delivery,Phone,Medium,4.5,3,True,2026-07
+CMP-01697,2026-07-01,Billing error,Social media,Medium,2.0,4,True,2026-07
+CMP-00715,2026-07-01,Billing error,Chat,Low,0.9,4,False,2026-07
+CMP-00913,2026-07-01,Poor agent communication,Email,Low,1.5,3,False,2026-07
+CMP-00281,2026-07-01,Product / service quality,Email,Medium,11.0,1,True,2026-07
+CMP-01805,2026-07-01,Billing error,Chat,Low,2.6,3,False,2026-07
+CMP-01239,2026-07-01,Product / service quality,Phone,Low,2.8,4,False,2026-07
+CMP-01391,2026-07-01,Poor agent communication,Chat,Low,3.7,3,False,2026-07
+CMP-01833,2026-07-01,Billing error,Email,Medium,1.9,4,True,2026-07
+CMP-00186,2026-07-01,Late delivery,Email,Low,1.9,5,False,2026-07
+CMP-01829,2026-07-01,Billing error,Chat,Medium,2.4,4,False,2026-07
+CMP-01989,2026-07-01,Late delivery,Email,Medium,3.9,3,True,2026-07
+CMP-01977,2026-07-02,Poor agent communication,Social media,Low,1.2,4,False,2026-07
+CMP-00288,2026-07-02,Refund delay,Email,Low,3.3,4,False,2026-07
+CMP-00826,2026-07-02,Poor agent communication,Chat,Low,0.9,4,False,2026-07
+CMP-00165,2026-07-02,Refund delay,Email,Medium,7.0,3,True,2026-07
+CMP-00393,2026-07-02,Product / service quality,Chat,Medium,3.0,4,True,2026-07
+CMP-00746,2026-07-02,Billing error,Phone,Medium,2.3,5,False,2026-07
+CMP-00044,2026-07-02,Poor agent communication,Chat,Low,0.4,5,False,2026-07
+CMP-00925,2026-07-02,Billing error,Chat,High,1.2,3,False,2026-07
+CMP-01109,2026-07-02,Product / service quality,Phone,Medium,1.3,4,True,2026-07
+CMP-00425,2026-07-02,Late delivery,Chat,High,1.1,4,False,2026-07
+CMP-00448,2026-07-02,Product / service quality,Phone,Medium,3.7,5,False,2026-07
+CMP-01078,2026-07-02,Product / service quality,Email,Low,3.6,4,False,2026-07
+CMP-00331,2026-07-02,Refund delay,Email,Medium,9.0,2,False,2026-07
+CMP-01456,2026-07-03,Billing error,Phone,Low,4.0,3,False,2026-07
+CMP-00860,2026-07-03,Late delivery,Chat,High,3.4,3,False,2026-07
+CMP-00935,2026-07-03,Late delivery,Email,Low,5.4,4,False,2026-07
+CMP-00850,2026-07-03,Late delivery,Phone,Low,6.6,3,True,2026-07
+CMP-01605,2026-07-03,Billing error,Phone,Medium,1.5,4,False,2026-07
+CMP-00709,2026-07-03,Late delivery,Email,High,3.1,4,False,2026-07
+CMP-01508,2026-07-03,Account access,Email,Medium,1.0,4,True,2026-07
+CMP-01303,2026-07-03,Late delivery,Email,Low,2.4,4,False,2026-07
+CMP-01300,2026-07-03,Poor agent communication,Email,Low,3.9,3,False,2026-07
+CMP-00395,2026-07-03,Billing error,Chat,Medium,1.4,3,False,2026-07
+CMP-00145,2026-07-03,Billing error,Chat,High,3.0,4,False,2026-07
+CMP-01866,2026-07-03,Billing error,Email,Low,6.6,3,False,2026-07
+CMP-00654,2026-07-03,Billing error,Phone,Medium,2.3,3,True,2026-07
+CMP-00410,2026-07-03,Poor agent communication,Phone,High,2.7,3,False,2026-07
+CMP-00779,2026-07-03,Account access,Phone,Low,1.1,3,True,2026-07
+CMP-01501,2026-07-03,Product / service quality,Chat,Low,2.4,3,False,2026-07
+CMP-01574,2026-07-04,Poor agent communication,Social media,Low,3.0,4,False,2026-07
+CMP-01530,2026-07-04,Late delivery,Chat,Low,2.1,4,False,2026-07
+CMP-00999,2026-07-04,Account access,Chat,Low,1.1,4,False,2026-07
+CMP-00763,2026-07-04,Billing error,Phone,Low,1.8,4,False,2026-07
+CMP-01740,2026-07-04,Late delivery,Email,Medium,2.3,3,False,2026-07
+CMP-01760,2026-07-04,Late delivery,Social media,Low,1.9,3,False,2026-07
+CMP-01022,2026-07-04,Billing error,Email,Medium,1.5,5,False,2026-07
+CMP-00075,2026-07-04,Late delivery,Email,High,6.5,3,True,2026-07
+CMP-01503,2026-07-05,Late delivery,Social media,Medium,9.1,3,False,2026-07
+CMP-00571,2026-07-05,Poor agent communication,Email,Low,2.0,3,True,2026-07
+CMP-01516,2026-07-05,Billing error,Email,Medium,3.3,4,False,2026-07
+CMP-00230,2026-07-05,Poor agent communication,Chat,Medium,0.9,5,False,2026-07
+CMP-01340,2026-07-05,Product / service quality,Phone,Low,1.9,4,False,2026-07
+CMP-00295,2026-07-05,Product / service quality,Phone,Medium,1.4,3,False,2026-07
+CMP-00593,2026-07-05,Account access,Email,Low,0.8,5,False,2026-07
+CMP-00315,2026-07-05,Billing error,Social media,Low,2.0,3,False,2026-07
+CMP-00758,2026-07-05,Late delivery,Email,Medium,1.7,3,False,2026-07
+CMP-00519,2026-07-05,Late delivery,Email,Medium,3.1,5,True,2026-07
+CMP-01555,2026-07-05,Refund delay,Phone,Low,2.3,4,False,2026-07
+CMP-01040,2026-07-05,Late delivery,Email,Low,8.7,2,True,2026-07
+CMP-01699,2026-07-05,Late delivery,Email,Medium,1.8,5,False,2026-07
+CMP-00486,2026-07-06,Billing error,Phone,High,1.5,4,False,2026-07
+CMP-01910,2026-07-06,Product / service quality,Phone,High,4.0,4,True,2026-07
+CMP-00569,2026-07-06,Billing error,Phone,Low,1.8,5,False,2026-07
+CMP-00286,2026-07-06,Late delivery,Email,High,2.8,4,True,2026-07
+CMP-00661,2026-07-06,Late delivery,Email,Low,2.4,4,False,2026-07
+CMP-01834,2026-07-06,Product / service quality,Email,Medium,3.4,3,False,2026-07
+CMP-00326,2026-07-06,Late delivery,Chat,Medium,4.0,2,True,2026-07
+CMP-00615,2026-07-06,Late delivery,Email,Low,5.8,3,True,2026-07
+CMP-01662,2026-07-06,Billing error,Email,Low,1.3,4,False,2026-07
+CMP-01231,2026-07-06,Billing error,Email,Medium,1.6,4,False,2026-07
+CMP-00735,2026-07-06,Late delivery,Chat,Low,1.4,5,True,2026-07
+CMP-01158,2026-07-06,Account access,Phone,Medium,0.9,4,False,2026-07
+CMP-00388,2026-07-06,Poor agent communication,Phone,Low,1.9,4,False,2026-07
+CMP-00825,2026-07-06,Product / service quality,Phone,Low,1.6,3,False,2026-07
+CMP-01562,2026-07-06,Billing error,Social media,Medium,1.7,4,False,2026-07
+CMP-01383,2026-07-07,Billing error,Social media,Medium,3.3,3,True,2026-07
+CMP-00136,2026-07-07,Billing error,Phone,Low,1.4,5,False,2026-07
+CMP-01980,2026-07-07,Account access,Chat,Low,1.4,2,False,2026-07
+CMP-00957,2026-07-07,Refund delay,Social media,Medium,12.3,1,False,2026-07
+CMP-00371,2026-07-07,Late delivery,Email,Low,2.6,4,False,2026-07
+CMP-00988,2026-07-07,Billing error,Chat,Low,2.0,4,False,2026-07
+CMP-01312,2026-07-07,Product / service quality,Email,Medium,4.9,3,False,2026-07
+CMP-00586,2026-07-07,Poor agent communication,Phone,Low,1.9,4,True,2026-07
+CMP-00655,2026-07-08,Billing error,Chat,Medium,1.9,4,False,2026-07
+CMP-00965,2026-07-08,Late delivery,Chat,Medium,3.7,5,False,2026-07
+CMP-00570,2026-07-08,Billing error,Email,Medium,4.1,5,False,2026-07
+CMP-00341,2026-07-08,Billing error,Email,Low,2.0,3,True,2026-07
+CMP-00048,2026-07-08,Refund delay,Email,Low,2.0,4,False,2026-07
+CMP-00590,2026-07-08,Product / service quality,Phone,Medium,1.7,4,False,2026-07
+CMP-00219,2026-07-08,Late delivery,Chat,Low,3.3,4,False,2026-07
+CMP-01642,2026-07-08,Billing error,Phone,Medium,2.2,5,False,2026-07
+CMP-00181,2026-07-08,Account access,Chat,Medium,3.7,3,False,2026-07
+CMP-00983,2026-07-09,Account access,Email,Medium,1.8,5,False,2026-07
+CMP-01021,2026-07-09,Product / service quality,Email,Low,5.0,3,False,2026-07
+CMP-00564,2026-07-09,Late delivery,Email,Low,4.8,3,True,2026-07
+CMP-01051,2026-07-09,Late delivery,Social media,Medium,8.8,4,True,2026-07
+CMP-00555,2026-07-09,Late delivery,Social media,Medium,1.4,4,False,2026-07
+CMP-01140,2026-07-09,Refund delay,Chat,Medium,3.5,3,False,2026-07
+CMP-00880,2026-07-09,Account access,Phone,Low,0.7,4,True,2026-07
+CMP-01975,2026-07-09,Account access,Phone,High,0.6,4,False,2026-07
+CMP-01385,2026-07-09,Account access,Chat,Low,2.3,4,True,2026-07
+CMP-00606,2026-07-09,Late delivery,Phone,Low,1.9,3,False,2026-07
+CMP-00595,2026-07-09,Billing error,Chat,Medium,2.0,4,False,2026-07
+CMP-01492,2026-07-09,Billing error,Email,Low,1.9,4,False,2026-07
+CMP-01457,2026-07-09,Account access,Social media,Low,0.5,4,False,2026-07
+CMP-01052,2026-07-10,Refund delay,Phone,Medium,3.6,3,True,2026-07
+CMP-00611,2026-07-10,Account access,Social media,Medium,2.4,2,True,2026-07
+CMP-01644,2026-07-10,Refund delay,Email,Medium,7.6,2,True,2026-07
+CMP-01223,2026-07-10,Billing error,Chat,Medium,2.6,5,False,2026-07
+CMP-01129,2026-07-10,Product / service quality,Social media,Low,3.3,5,False,2026-07
+CMP-01714,2026-07-10,Billing error,Phone,Medium,3.0,5,False,2026-07
+CMP-01056,2026-07-10,Billing error,Email,Low,2.1,4,False,2026-07
+CMP-01867,2026-07-10,Product / service quality,Email,Medium,8.1,3,True,2026-07
+CMP-01328,2026-07-10,Late delivery,Email,Low,7.6,3,True,2026-07
+CMP-00062,2026-07-10,Product / service quality,Phone,Medium,2.1,5,True,2026-07
+CMP-00159,2026-07-10,Late delivery,Phone,Medium,1.4,3,False,2026-07
+CMP-01350,2026-07-10,Product / service quality,Chat,Medium,5.7,3,False,2026-07
+CMP-00501,2026-07-10,Billing error,Chat,Medium,2.5,5,True,2026-07
+CMP-01541,2026-07-11,Late delivery,Chat,Medium,3.2,4,False,2026-07
+CMP-01679,2026-07-11,Late delivery,Phone,Low,3.5,4,False,2026-07
+CMP-00150,2026-07-11,Account access,Social media,Low,1.3,4,False,2026-07
+CMP-01532,2026-07-11,Product / service quality,Phone,High,2.6,3,False,2026-07
+CMP-01593,2026-07-11,Late delivery,Phone,Low,3.2,4,True,2026-07
+CMP-00025,2026-07-11,Late delivery,Chat,Medium,1.9,4,False,2026-07
+CMP-01200,2026-07-11,Late delivery,Chat,Low,1.2,5,False,2026-07
+CMP-01920,2026-07-11,Poor agent communication,Chat,Low,0.8,5,False,2026-07
+CMP-00915,2026-07-11,Late delivery,Email,High,3.4,4,False,2026-07
+CMP-01192,2026-07-11,Refund delay,Social media,Low,6.3,3,True,2026-07
+CMP-01331,2026-07-11,Product / service quality,Phone,Medium,3.1,5,False,2026-07
+CMP-00979,2026-07-11,Billing error,Email,Medium,3.7,4,True,2026-07
+CMP-01185,2026-07-11,Account access,Email,Medium,1.7,3,False,2026-07
+CMP-00820,2026-07-11,Billing error,Social media,Low,2.0,4,False,2026-07
+CMP-01405,2026-07-12,Account access,Chat,High,0.5,5,False,2026-07
+CMP-00490,2026-07-12,Account access,Chat,Low,1.0,4,True,2026-07
+CMP-01400,2026-07-12,Late delivery,Chat,Low,5.3,3,False,2026-07
+CMP-01142,2026-07-12,Poor agent communication,Email,Medium,1.9,4,True,2026-07
+CMP-00135,2026-07-12,Account access,Chat,Medium,0.6,5,False,2026-07
+CMP-01336,2026-07-12,Product / service quality,Chat,Medium,2.4,3,False,2026-07
+CMP-00753,2026-07-12,Refund delay,Phone,Medium,2.0,4,False,2026-07
+CMP-00125,2026-07-12,Product / service quality,Email,Low,5.4,3,False,2026-07
+CMP-00236,2026-07-12,Late delivery,Social media,High,5.8,4,False,2026-07
+CMP-01502,2026-07-12,Product / service quality,Social media,Medium,1.6,4,False,2026-07
+CMP-01309,2026-07-12,Poor agent communication,Social media,Medium,1.5,5,True,2026-07
+CMP-00157,2026-07-12,Billing error,Phone,Medium,1.0,4,False,2026-07
+CMP-00684,2026-07-12,Poor agent communication,Phone,High,0.4,5,False,2026-07
+CMP-00788,2026-07-12,Late delivery,Phone,Low,2.6,5,False,2026-07
+CMP-00054,2026-07-12,Billing error,Email,High,4.7,3,False,2026-07
+CMP-00627,2026-07-12,Poor agent communication,Phone,Medium,0.7,5,False,2026-07
+CMP-01244,2026-07-12,Late delivery,Phone,Medium,2.2,3,True,2026-07
+CMP-00167,2026-07-12,Refund delay,Chat,High,2.1,3,True,2026-07
+CMP-00656,2026-07-13,Poor agent communication,Phone,Low,4.2,4,False,2026-07
+CMP-00639,2026-07-13,Billing error,Email,Low,1.8,4,False,2026-07
+CMP-00728,2026-07-13,Account access,Email,Medium,0.6,4,False,2026-07
+CMP-00269,2026-07-13,Billing error,Phone,Low,1.3,4,True,2026-07
+CMP-00310,2026-07-13,Poor agent communication,Phone,Low,1.3,5,False,2026-07
+CMP-01414,2026-07-13,Billing error,Phone,Medium,3.3,5,True,2026-07
+CMP-00561,2026-07-13,Refund delay,Chat,Medium,4.1,4,True,2026-07
+CMP-00742,2026-07-13,Account access,Email,Low,0.6,4,False,2026-07
+CMP-01463,2026-07-14,Late delivery,Chat,Low,8.4,1,False,2026-07
+CMP-01024,2026-07-14,Billing error,Email,High,1.6,4,True,2026-07
+CMP-00794,2026-07-14,Refund delay,Phone,Low,2.3,4,False,2026-07
+CMP-00931,2026-07-14,Billing error,Email,Medium,2.6,3,False,2026-07
+CMP-01710,2026-07-14,Refund delay,Email,High,8.6,2,False,2026-07
+CMP-00251,2026-07-14,Billing error,Email,Medium,3.6,3,False,2026-07
+CMP-00705,2026-07-14,Refund delay,Phone,Medium,6.5,4,True,2026-07
+CMP-00909,2026-07-14,Late delivery,Phone,Medium,5.1,3,False,2026-07
+CMP-01812,2026-07-14,Product / service quality,Email,High,5.9,3,True,2026-07
+CMP-00795,2026-07-15,Late delivery,Email,Medium,4.7,4,False,2026-07
+CMP-01497,2026-07-15,Late delivery,Chat,Low,1.4,5,False,2026-07
+CMP-01599,2026-07-15,Late delivery,Chat,High,14.7,1,True,2026-07
+CMP-01721,2026-07-15,Late delivery,Email,Low,3.7,4,True,2026-07
+CMP-00842,2026-07-15,Billing error,Phone,High,1.8,4,False,2026-07
+CMP-01938,2026-07-15,Late delivery,Phone,Low,2.1,5,False,2026-07
+CMP-01661,2026-07-15,Late delivery,Chat,High,2.7,3,False,2026-07
+CMP-01969,2026-07-15,Refund delay,Email,Low,7.3,2,False,2026-07
+CMP-01443,2026-07-15,Account access,Social media,Medium,1.4,4,True,2026-07
+CMP-01999,2026-07-15,Late delivery,Chat,Medium,3.5,4,False,2026-07
+CMP-01936,2026-07-16,Account access,Social media,Low,1.0,3,True,2026-07
+CMP-00868,2026-07-16,Refund delay,Email,Medium,4.8,4,False,2026-07
+CMP-01826,2026-07-16,Account access,Chat,Medium,1.9,4,True,2026-07
+CMP-01782,2026-07-16,Late delivery,Phone,Medium,0.9,5,False,2026-07
+CMP-01382,2026-07-16,Late delivery,Social media,Medium,1.8,3,True,2026-07
+CMP-01754,2026-07-16,Poor agent communication,Phone,Low,1.5,5,True,2026-07
+CMP-01748,2026-07-16,Account access,Email,High,0.8,5,False,2026-07
+CMP-00706,2026-07-16,Late delivery,Email,High,3.5,3,False,2026-07
+CMP-00220,2026-07-16,Poor agent communication,Social media,High,3.6,4,False,2026-07
+CMP-00368,2026-07-16,Poor agent communication,Email,High,1.4,4,False,2026-07
+CMP-00605,2026-07-16,Late delivery,Chat,Medium,4.4,4,False,2026-07
+CMP-00324,2026-07-16,Poor agent communication,Email,Medium,0.7,4,True,2026-07
+CMP-00185,2026-07-17,Account access,Social media,Medium,0.5,5,True,2026-07
+CMP-00018,2026-07-17,Poor agent communication,Social media,Low,2.7,4,True,2026-07
+CMP-00241,2026-07-17,Billing error,Chat,High,2.9,3,False,2026-07
+CMP-00774,2026-07-17,Product / service quality,Phone,Low,1.4,4,False,2026-07
+CMP-00077,2026-07-17,Account access,Phone,Medium,0.5,4,False,2026-07
+CMP-01698,2026-07-17,Product / service quality,Email,Low,4.5,2,False,2026-07
+CMP-01061,2026-07-17,Product / service quality,Email,Low,3.2,3,False,2026-07
+CMP-00116,2026-07-17,Product / service quality,Chat,Low,3.6,4,False,2026-07
+CMP-01544,2026-07-17,Late delivery,Email,Low,5.4,3,True,2026-07
+CMP-01445,2026-07-18,Late delivery,Phone,High,1.0,5,False,2026-07
+CMP-00172,2026-07-18,Product / service quality,Social media,Low,7.8,4,True,2026-07
+CMP-01455,2026-07-18,Billing error,Chat,Low,1.4,4,False,2026-07
+CMP-01279,2026-07-18,Refund delay,Email,Low,10.3,3,True,2026-07
+CMP-02000,2026-07-18,Late delivery,Email,Low,3.8,3,False,2026-07
+CMP-00545,2026-07-18,Product / service quality,Email,Medium,8.3,3,False,2026-07
+CMP-00360,2026-07-19,Product / service quality,Email,Low,9.6,3,False,2026-07
+CMP-01488,2026-07-19,Product / service quality,Chat,Low,4.9,4,False,2026-07
+CMP-00750,2026-07-19,Late delivery,Email,Low,1.4,4,False,2026-07
+CMP-00268,2026-07-19,Late delivery,Phone,Low,5.2,3,True,2026-07
+CMP-00598,2026-07-19,Product / service quality,Email,Medium,11.3,1,False,2026-07
+CMP-01725,2026-07-19,Late delivery,Chat,Low,2.4,5,False,2026-07
+CMP-01209,2026-07-19,Billing error,Phone,High,0.5,3,False,2026-07
+CMP-01785,2026-07-19,Account access,Email,Low,1.1,3,False,2026-07
+CMP-01950,2026-07-19,Refund delay,Email,Medium,6.3,3,True,2026-07
+CMP-01955,2026-07-20,Late delivery,Chat,Medium,2.0,5,False,2026-07
+CMP-00151,2026-07-20,Late delivery,Phone,Low,3.5,4,False,2026-07
+CMP-00052,2026-07-20,Refund delay,Phone,Low,3.1,3,False,2026-07
+CMP-01162,2026-07-20,Refund delay,Email,Medium,12.4,1,False,2026-07
+CMP-01836,2026-07-20,Late delivery,Phone,High,4.2,3,True,2026-07
+CMP-01945,2026-07-20,Account access,Phone,High,0.6,4,False,2026-07
+CMP-01375,2026-07-20,Poor agent communication,Chat,High,2.0,5,False,2026-07
+CMP-01556,2026-07-20,Late delivery,Chat,High,3.5,2,False,2026-07
+CMP-00254,2026-07-21,Late delivery,Phone,Low,1.2,5,True,2026-07
+CMP-00952,2026-07-21,Late delivery,Email,Low,2.9,4,False,2026-07
+CMP-01539,2026-07-21,Refund delay,Email,Medium,4.9,5,True,2026-07
+CMP-01903,2026-07-21,Poor agent communication,Chat,Low,4.0,3,False,2026-07
+CMP-00472,2026-07-21,Billing error,Email,Medium,1.7,5,True,2026-07
+CMP-01053,2026-07-21,Product / service quality,Chat,Medium,1.0,5,False,2026-07
+CMP-01460,2026-07-21,Product / service quality,Chat,Low,3.6,3,False,2026-07
+CMP-00300,2026-07-21,Billing error,Email,Medium,1.0,4,False,2026-07
+CMP-01359,2026-07-21,Refund delay,Email,Low,3.6,4,True,2026-07
+CMP-00224,2026-07-21,Product / service quality,Social media,High,4.1,4,False,2026-07
+CMP-00492,2026-07-21,Late delivery,Chat,Low,2.2,5,False,2026-07
+CMP-01133,2026-07-21,Refund delay,Chat,Low,5.1,2,False,2026-07
+CMP-01444,2026-07-21,Billing error,Phone,Low,2.6,3,False,2026-07
+CMP-00901,2026-07-21,Late delivery,Chat,Low,3.3,3,False,2026-07
+CMP-00457,2026-07-22,Refund delay,Social media,Low,3.3,2,True,2026-07
+CMP-00509,2026-07-22,Late delivery,Email,Low,2.2,5,False,2026-07
+CMP-00016,2026-07-22,Refund delay,Social media,High,10.3,1,True,2026-07
+CMP-00030,2026-07-22,Refund delay,Email,Low,4.9,3,True,2026-07
+CMP-00721,2026-07-22,Late delivery,Phone,Low,1.3,3,False,2026-07
+CMP-00261,2026-07-22,Late delivery,Phone,Low,2.4,4,False,2026-07
+CMP-00946,2026-07-22,Late delivery,Email,Medium,1.7,3,False,2026-07
+CMP-00377,2026-07-22,Late delivery,Email,Low,5.2,4,True,2026-07
+CMP-00119,2026-07-22,Billing error,Phone,Medium,1.2,5,False,2026-07
+CMP-01966,2026-07-22,Late delivery,Phone,Low,3.2,4,False,2026-07
+CMP-01257,2026-07-22,Billing error,Phone,Low,0.5,4,False,2026-07
+CMP-01247,2026-07-22,Product / service quality,Chat,Low,2.9,3,True,2026-07
+CMP-01512,2026-07-22,Poor agent communication,Email,Low,1.4,4,True,2026-07
+CMP-01496,2026-07-23,Poor agent communication,Chat,Low,3.7,4,False,2026-07
+CMP-01433,2026-07-23,Product / service quality,Chat,Medium,7.0,2,True,2026-07
+CMP-01447,2026-07-23,Late delivery,Email,Medium,2.6,5,False,2026-07
+CMP-01633,2026-07-23,Product / service quality,Phone,Low,2.1,4,True,2026-07
+CMP-01050,2026-07-23,Refund delay,Phone,Low,3.8,4,False,2026-07
+CMP-01424,2026-07-23,Product / service quality,Phone,Low,1.6,3,False,2026-07
+CMP-01066,2026-07-23,Billing error,Email,Low,2.5,4,True,2026-07
+CMP-00662,2026-07-23,Billing error,Email,Low,2.3,4,False,2026-07
+CMP-01861,2026-07-23,Late delivery,Chat,Medium,1.0,4,True,2026-07
+CMP-01048,2026-07-23,Poor agent communication,Phone,Medium,0.7,4,False,2026-07
+CMP-00026,2026-07-24,Refund delay,Chat,Medium,8.1,3,False,2026-07
+CMP-01619,2026-07-24,Billing error,Chat,High,2.9,5,False,2026-07
+CMP-00776,2026-07-24,Late delivery,Phone,High,2.7,5,False,2026-07
+CMP-01664,2026-07-24,Billing error,Email,Low,1.3,4,False,2026-07
+CMP-01978,2026-07-24,Billing error,Phone,Low,2.9,4,True,2026-07
+CMP-01498,2026-07-24,Billing error,Email,High,1.7,3,False,2026-07
+CMP-00917,2026-07-24,Poor agent communication,Chat,Low,4.4,4,False,2026-07
+CMP-00445,2026-07-24,Late delivery,Phone,Medium,4.0,2,False,2026-07
+CMP-01428,2026-07-24,Refund delay,Social media,High,7.2,2,False,2026-07
+CMP-00047,2026-07-24,Late delivery,Email,Low,2.2,3,False,2026-07
+CMP-00406,2026-07-25,Account access,Email,Low,1.8,4,False,2026-07
+CMP-00962,2026-07-25,Product / service quality,Chat,High,6.5,3,False,2026-07
+CMP-00411,2026-07-25,Product / service quality,Chat,Low,5.0,4,False,2026-07
+CMP-00691,2026-07-25,Billing error,Email,Medium,2.6,5,True,2026-07
+CMP-01643,2026-07-25,Late delivery,Phone,Medium,3.1,3,True,2026-07
+CMP-01597,2026-07-25,Product / service quality,Chat,Low,3.0,4,False,2026-07
+CMP-01341,2026-07-25,Billing error,Phone,Low,1.3,4,False,2026-07
+CMP-01147,2026-07-25,Account access,Chat,Medium,1.6,4,False,2026-07
+CMP-01354,2026-07-25,Product / service quality,Chat,High,4.1,4,False,2026-07
+CMP-00717,2026-07-25,Billing error,Phone,Low,0.9,5,False,2026-07
+CMP-00772,2026-07-25,Account access,Chat,High,1.9,4,False,2026-07
+CMP-01624,2026-07-25,Product / service quality,Email,Medium,6.4,3,False,2026-07
+CMP-00039,2026-07-25,Poor agent communication,Chat,Medium,1.6,3,False,2026-07
+CMP-00369,2026-07-26,Poor agent communication,Social media,Low,0.6,5,False,2026-07
+CMP-01847,2026-07-26,Poor agent communication,Email,Low,1.4,4,False,2026-07
+CMP-01586,2026-07-26,Late delivery,Email,Low,1.4,5,False,2026-07
+CMP-01559,2026-07-26,Billing error,Phone,Medium,0.8,4,False,2026-07
+CMP-01165,2026-07-26,Late delivery,Email,Medium,9.4,2,False,2026-07
+CMP-01681,2026-07-26,Poor agent communication,Phone,Medium,0.4,5,False,2026-07
+CMP-00754,2026-07-26,Late delivery,Email,Low,8.2,2,True,2026-07
+CMP-01413,2026-07-26,Poor agent communication,Phone,Medium,2.9,4,False,2026-07
+CMP-00642,2026-07-26,Product / service quality,Email,Low,1.6,4,False,2026-07
+CMP-00478,2026-07-26,Refund delay,Chat,Medium,2.1,5,False,2026-07
+CMP-00466,2026-07-27,Billing error,Phone,Medium,2.4,3,False,2026-07
+CMP-01865,2026-07-27,Poor agent communication,Email,Medium,4.4,4,False,2026-07
+CMP-01789,2026-07-27,Billing error,Phone,Low,1.0,4,True,2026-07
+CMP-01959,2026-07-27,Poor agent communication,Social media,Medium,1.0,5,False,2026-07
+CMP-01837,2026-07-27,Account access,Chat,Medium,2.5,3,False,2026-07
+CMP-01113,2026-07-27,Billing error,Email,Low,1.9,4,False,2026-07
+CMP-01568,2026-07-27,Poor agent communication,Email,High,1.1,4,False,2026-07
+CMP-00103,2026-07-27,Billing error,Email,Medium,2.5,4,False,2026-07
+CMP-01321,2026-07-27,Product / service quality,Chat,Low,5.7,3,True,2026-07
+CMP-00801,2026-07-27,Account access,Social media,Low,0.4,5,False,2026-07
+CMP-01991,2026-07-27,Late delivery,Phone,Low,2.7,4,False,2026-07
+CMP-01011,2026-07-28,Account access,Chat,Low,0.7,5,False,2026-07
+CMP-00938,2026-07-28,Refund delay,Social media,Low,9.3,2,True,2026-07
+CMP-01883,2026-07-28,Late delivery,Email,Low,1.7,4,False,2026-07
+CMP-01995,2026-07-28,Poor agent communication,Phone,Medium,1.0,4,False,2026-07
+CMP-01640,2026-07-28,Late delivery,Email,Medium,5.5,3,False,2026-07
+CMP-01786,2026-07-28,Billing error,Phone,Low,1.0,4,False,2026-07
+CMP-00129,2026-07-28,Late delivery,Phone,High,1.4,5,False,2026-07
+CMP-01406,2026-07-28,Poor agent communication,Phone,Medium,1.3,4,False,2026-07
+CMP-01580,2026-07-29,Account access,Email,Low,3.2,4,False,2026-07
+CMP-01469,2026-07-29,Product / service quality,Chat,Low,3.1,3,False,2026-07
+CMP-01773,2026-07-29,Account access,Chat,Medium,0.7,4,False,2026-07
+CMP-00638,2026-07-30,Product / service quality,Social media,High,11.9,1,True,2026-07
+CMP-00666,2026-07-30,Late delivery,Email,Low,1.9,4,True,2026-07
+CMP-01558,2026-07-30,Poor agent communication,Chat,Medium,2.0,4,False,2026-07
+CMP-01915,2026-07-30,Account access,Email,Low,2.0,3,False,2026-07
+CMP-00105,2026-07-30,Poor agent communication,Phone,Low,0.9,5,True,2026-07
+CMP-00179,2026-07-30,Product / service quality,Phone,Medium,4.0,3,False,2026-07
+CMP-01124,2026-07-30,Refund delay,Chat,Medium,6.6,2,True,2026-07
+CMP-01284,2026-07-30,Billing error,Social media,Low,2.4,3,False,2026-07
+CMP-01289,2026-07-30,Account access,Chat,Low,1.3,4,False,2026-07
+CMP-01546,2026-07-30,Billing error,Email,Medium,1.1,4,False,2026-07
+CMP-00024,2026-07-30,Late delivery,Email,Medium,4.1,4,False,2026-07
+CMP-01258,2026-07-31,Refund delay,Chat,Medium,15.9,1,True,2026-07
+CMP-00095,2026-07-31,Billing error,Email,Low,1.1,4,False,2026-07
+CMP-00370,2026-07-31,Late delivery,Phone,Medium,2.3,3,True,2026-07
+CMP-00045,2026-07-31,Product / service quality,Chat,Low,5.3,4,False,2026-07
+CMP-01416,2026-07-31,Refund delay,Email,Low,2.9,5,False,2026-07
+CMP-00883,2026-07-31,Late delivery,Email,Medium,3.1,5,False,2026-07
+CMP-01417,2026-07-31,Billing error,Phone,Low,2.0,4,False,2026-07
+CMP-00027,2026-07-31,Billing error,Email,Low,0.8,5,False,2026-07
+CMP-01879,2026-07-31,Billing error,Email,Medium,2.6,2,False,2026-07
+CMP-01090,2026-07-31,Billing error,Phone,Medium,2.0,3,False,2026-07
+CMP-01362,2026-07-31,Billing error,Social media,Low,1.7,5,False,2026-07
+CMP-00922,2026-07-31,Billing error,Phone,Low,2.3,4,False,2026-07
+CMP-00148,2026-07-31,Billing error,Chat,Low,1.9,4,False,2026-07
+CMP-01932,2026-07-31,Late delivery,Chat,Medium,2.4,3,False,2026-07
+CMP-00214,2026-08-01,Product / service quality,Phone,Medium,2.9,3,False,2026-08
+CMP-00023,2026-08-01,Refund delay,Phone,Low,4.1,4,True,2026-08
+CMP-01373,2026-08-01,Late delivery,Phone,Medium,3.4,4,False,2026-08
+CMP-00122,2026-08-01,Product / service quality,Chat,Medium,3.6,3,False,2026-08
+CMP-00714,2026-08-01,Product / service quality,Phone,High,4.2,2,False,2026-08
+CMP-01843,2026-08-01,Billing error,Phone,Low,2.3,3,False,2026-08
+CMP-01907,2026-08-01,Refund delay,Social media,Medium,4.6,3,False,2026-08
+CMP-00449,2026-08-01,Refund delay,Phone,Medium,3.8,4,False,2026-08
+CMP-00249,2026-08-01,Poor agent communication,Chat,Low,1.3,5,False,2026-08
+CMP-01592,2026-08-01,Product / service quality,Phone,Medium,6.6,4,False,2026-08
+CMP-01741,2026-08-01,Product / service quality,Chat,Medium,3.7,4,False,2026-08
+CMP-01686,2026-08-01,Refund delay,Chat,Medium,3.4,4,False,2026-08
+CMP-00864,2026-08-01,Billing error,Chat,Low,1.8,5,True,2026-08
+CMP-00498,2026-08-02,Billing error,Email,Low,1.6,3,False,2026-08
+CMP-01736,2026-08-02,Billing error,Phone,Medium,4.0,5,False,2026-08
+CMP-01803,2026-08-02,Product / service quality,Phone,High,2.6,4,False,2026-08
+CMP-00503,2026-08-02,Poor agent communication,Chat,Low,1.4,4,False,2026-08
+CMP-01886,2026-08-02,Refund delay,Phone,Medium,12.6,2,False,2026-08
+CMP-00960,2026-08-02,Late delivery,Chat,High,2.9,4,False,2026-08
+CMP-01297,2026-08-02,Product / service quality,Email,Medium,3.2,3,False,2026-08
+CMP-00766,2026-08-02,Product / service quality,Email,Low,2.1,3,False,2026-08
+CMP-00096,2026-08-02,Product / service quality,Chat,Low,3.6,3,False,2026-08
+CMP-01853,2026-08-02,Product / service quality,Chat,Low,4.3,4,False,2026-08
+CMP-00723,2026-08-02,Account access,Phone,Low,0.4,4,False,2026-08
+CMP-00682,2026-08-02,Refund delay,Chat,Low,1.2,4,True,2026-08
+CMP-00601,2026-08-02,Poor agent communication,Phone,Medium,3.2,5,False,2026-08
+CMP-01355,2026-08-03,Late delivery,Email,Low,11.0,2,False,2026-08
+CMP-00385,2026-08-03,Late delivery,Phone,Low,3.2,4,False,2026-08
+CMP-01310,2026-08-03,Product / service quality,Chat,Low,9.1,1,True,2026-08
+CMP-00127,2026-08-03,Late delivery,Email,Medium,4.3,3,False,2026-08
+CMP-01968,2026-08-03,Late delivery,Email,High,0.7,5,False,2026-08
+CMP-01437,2026-08-03,Billing error,Phone,Low,1.3,4,False,2026-08
+CMP-01466,2026-08-03,Billing error,Email,Medium,0.9,4,False,2026-08
+CMP-00090,2026-08-03,Late delivery,Phone,Medium,1.4,5,False,2026-08
+CMP-01477,2026-08-03,Billing error,Email,Medium,0.9,4,True,2026-08
+CMP-01668,2026-08-04,Late delivery,Email,Medium,8.6,2,True,2026-08
+CMP-01107,2026-08-04,Late delivery,Phone,Medium,3.5,4,False,2026-08
+CMP-00956,2026-08-04,Late delivery,Phone,Low,1.4,4,False,2026-08
+CMP-01924,2026-08-04,Billing error,Email,Medium,2.8,5,False,2026-08
+CMP-01737,2026-08-04,Late delivery,Phone,Low,2.9,3,False,2026-08
+CMP-01728,2026-08-04,Late delivery,Social media,Medium,3.8,3,False,2026-08
+CMP-01010,2026-08-04,Poor agent communication,Social media,Medium,1.4,5,True,2026-08
+CMP-00619,2026-08-04,Poor agent communication,Social media,Medium,2.0,4,False,2026-08
+CMP-00366,2026-08-04,Refund delay,Chat,Low,3.9,4,False,2026-08
+CMP-00453,2026-08-04,Poor agent communication,Chat,Medium,1.5,4,False,2026-08
+CMP-01393,2026-08-05,Product / service quality,Phone,Medium,5.1,3,True,2026-08
+CMP-01587,2026-08-05,Poor agent communication,Email,Medium,1.8,4,False,2026-08
+CMP-01672,2026-08-05,Billing error,Email,Low,2.4,4,False,2026-08
+CMP-00679,2026-08-05,Poor agent communication,Phone,Medium,1.0,4,False,2026-08
+CMP-00104,2026-08-05,Refund delay,Chat,High,2.8,5,False,2026-08
+CMP-01137,2026-08-05,Late delivery,Chat,Medium,5.3,3,False,2026-08
+CMP-00699,2026-08-05,Product / service quality,Phone,High,4.6,4,False,2026-08
+CMP-00091,2026-08-05,Late delivery,Phone,Low,4.8,2,True,2026-08
+CMP-01877,2026-08-06,Billing error,Email,Medium,2.4,4,True,2026-08
+CMP-00787,2026-08-06,Account access,Email,Low,0.6,5,False,2026-08
+CMP-00973,2026-08-06,Account access,Email,Medium,2.3,4,False,2026-08
+CMP-00455,2026-08-06,Product / service quality,Phone,Medium,10.1,2,True,2026-08
+CMP-01474,2026-08-06,Poor agent communication,Chat,Low,0.8,5,False,2026-08
+CMP-01246,2026-08-06,Product / service quality,Email,Low,12.6,1,True,2026-08
+CMP-00195,2026-08-06,Late delivery,Social media,High,4.6,4,False,2026-08
+CMP-01482,2026-08-07,Refund delay,Email,Medium,5.3,3,False,2026-08
+CMP-00239,2026-08-07,Refund delay,Phone,Low,1.8,5,False,2026-08
+CMP-01894,2026-08-07,Account access,Phone,Medium,0.7,3,False,2026-08
+CMP-00093,2026-08-07,Billing error,Chat,Medium,1.0,4,False,2026-08
+CMP-01467,2026-08-07,Late delivery,Email,Medium,4.1,4,True,2026-08
+CMP-01360,2026-08-07,Late delivery,Phone,Low,2.7,4,False,2026-08
+CMP-00588,2026-08-07,Account access,Phone,Low,0.8,5,False,2026-08
+CMP-01992,2026-08-07,Billing error,Social media,Medium,0.8,5,False,2026-08
+CMP-01942,2026-08-07,Poor agent communication,Phone,Low,1.1,5,False,2026-08
+CMP-01489,2026-08-07,Poor agent communication,Email,Low,0.6,5,False,2026-08
+CMP-00327,2026-08-07,Late delivery,Chat,Low,0.9,5,False,2026-08
+CMP-00836,2026-08-07,Late delivery,Email,High,3.4,3,False,2026-08
+CMP-01689,2026-08-08,Billing error,Phone,Medium,1.4,4,False,2026-08
+CMP-00130,2026-08-08,Billing error,Phone,Low,2.1,5,False,2026-08
+CMP-01848,2026-08-08,Poor agent communication,Chat,Low,1.2,4,False,2026-08
+CMP-00040,2026-08-08,Late delivery,Phone,Medium,2.5,5,True,2026-08
+CMP-00762,2026-08-08,Refund delay,Email,Medium,7.1,2,False,2026-08
+CMP-00279,2026-08-08,Poor agent communication,Phone,Medium,1.2,3,False,2026-08
+CMP-01749,2026-08-08,Late delivery,Phone,High,1.9,4,False,2026-08
+CMP-01097,2026-08-08,Late delivery,Email,Low,3.1,4,False,2026-08
+CMP-01948,2026-08-09,Poor agent communication,Chat,Low,1.2,4,False,2026-08
+CMP-01012,2026-08-09,Late delivery,Chat,Medium,2.7,3,True,2026-08
+CMP-01695,2026-08-10,Late delivery,Email,Medium,3.6,4,False,2026-08
+CMP-01935,2026-08-10,Product / service quality,Phone,Medium,1.0,4,False,2026-08
+CMP-00180,2026-08-10,Late delivery,Social media,Medium,4.9,4,False,2026-08
+CMP-01875,2026-08-10,Poor agent communication,Phone,High,4.3,3,True,2026-08
+CMP-01518,2026-08-10,Poor agent communication,Email,Medium,0.5,5,False,2026-08
+CMP-01486,2026-08-10,Late delivery,Email,Medium,2.6,2,False,2026-08
+CMP-00505,2026-08-10,Poor agent communication,Chat,Low,0.6,4,False,2026-08
+CMP-00247,2026-08-10,Late delivery,Social media,Medium,2.5,3,True,2026-08
+CMP-00617,2026-08-10,Late delivery,Chat,Medium,1.9,5,True,2026-08
+CMP-00887,2026-08-11,Late delivery,Phone,Medium,5.2,3,False,2026-08
+CMP-00607,2026-08-11,Billing error,Phone,High,5.6,4,True,2026-08
+CMP-00399,2026-08-11,Account access,Phone,Medium,0.6,5,True,2026-08
+CMP-01277,2026-08-11,Billing error,Email,Medium,1.9,4,False,2026-08
+CMP-01318,2026-08-11,Late delivery,Email,Low,4.8,3,True,2026-08
+CMP-00929,2026-08-11,Poor agent communication,Chat,Medium,1.2,4,False,2026-08
+CMP-00529,2026-08-12,Billing error,Email,Low,2.7,4,True,2026-08
+CMP-01868,2026-08-12,Poor agent communication,Email,Medium,6.6,5,False,2026-08
+CMP-01329,2026-08-12,Poor agent communication,Phone,High,0.5,4,False,2026-08
+CMP-00397,2026-08-12,Product / service quality,Email,High,8.6,2,True,2026-08
+CMP-01015,2026-08-12,Late delivery,Email,Low,7.4,3,False,2026-08
+CMP-01001,2026-08-12,Poor agent communication,Email,Medium,1.7,4,False,2026-08
+CMP-00809,2026-08-12,Billing error,Chat,Low,1.2,4,False,2026-08
+CMP-00991,2026-08-12,Product / service quality,Chat,High,3.4,3,False,2026-08
+CMP-00200,2026-08-12,Refund delay,Email,Medium,6.8,3,False,2026-08
+CMP-00575,2026-08-12,Product / service quality,Social media,Low,1.5,5,False,2026-08
+CMP-00972,2026-08-12,Account access,Phone,Low,0.6,4,False,2026-08
+CMP-01578,2026-08-12,Billing error,Phone,Low,0.3,3,False,2026-08
+CMP-00002,2026-08-12,Account access,Chat,Low,0.3,3,False,2026-08
+CMP-00417,2026-08-12,Poor agent communication,Email,Low,1.3,5,False,2026-08
+CMP-01461,2026-08-12,Late delivery,Email,High,3.9,4,True,2026-08
+CMP-01594,2026-08-12,Late delivery,Email,Low,0.9,4,False,2026-08
+CMP-00330,2026-08-12,Late delivery,Chat,Low,1.8,5,False,2026-08
+CMP-00442,2026-08-13,Late delivery,Email,Low,3.5,3,True,2026-08
+CMP-00562,2026-08-13,Late delivery,Email,Medium,2.5,5,False,2026-08
+CMP-00409,2026-08-13,Billing error,Phone,Medium,4.0,4,False,2026-08
+CMP-01242,2026-08-13,Late delivery,Phone,Medium,3.9,4,False,2026-08
+CMP-01765,2026-08-13,Late delivery,Chat,Low,2.7,3,False,2026-08
+CMP-00896,2026-08-13,Poor agent communication,Phone,Low,3.3,4,False,2026-08
+CMP-01876,2026-08-13,Poor agent communication,Chat,Low,1.0,4,False,2026-08
+CMP-00359,2026-08-14,Late delivery,Email,High,3.7,2,False,2026-08
+CMP-01228,2026-08-14,Billing error,Email,Medium,1.3,4,False,2026-08
+CMP-01634,2026-08-14,Product / service quality,Phone,Medium,7.1,2,False,2026-08
+CMP-01039,2026-08-14,Account access,Phone,Medium,0.5,5,False,2026-08
+CMP-00537,2026-08-14,Late delivery,Chat,Low,2.3,3,False,2026-08
+CMP-00701,2026-08-14,Refund delay,Phone,Medium,3.4,4,False,2026-08
+CMP-00722,2026-08-14,Poor agent communication,Social media,Low,1.3,3,False,2026-08
+CMP-01473,2026-08-14,Late delivery,Chat,Low,3.2,4,False,2026-08
+CMP-00511,2026-08-15,Product / service quality,Phone,Low,7.3,2,False,2026-08
+CMP-01734,2026-08-15,Billing error,Social media,Medium,2.4,4,False,2026-08
+CMP-00843,2026-08-15,Refund delay,Chat,Low,4.1,4,False,2026-08
+CMP-01037,2026-08-15,Late delivery,Chat,Low,3.6,2,False,2026-08
+CMP-01264,2026-08-15,Product / service quality,Phone,High,5.6,3,True,2026-08
+CMP-01183,2026-08-15,Billing error,Email,High,3.3,4,True,2026-08
+CMP-00058,2026-08-16,Billing error,Phone,Medium,3.9,3,True,2026-08
+CMP-00898,2026-08-16,Refund delay,Chat,Low,1.2,4,False,2026-08
+CMP-01157,2026-08-16,Refund delay,Chat,High,3.3,3,True,2026-08
+CMP-01358,2026-08-16,Billing error,Phone,Medium,2.4,4,False,2026-08
+CMP-00502,2026-08-16,Poor agent communication,Phone,Medium,0.8,4,False,2026-08
+CMP-01646,2026-08-16,Product / service quality,Email,Low,6.5,2,True,2026-08
+CMP-01878,2026-08-16,Billing error,Chat,Low,1.3,4,False,2026-08
+CMP-01250,2026-08-16,Late delivery,Email,Medium,2.3,4,False,2026-08
+CMP-01621,2026-08-16,Product / service quality,Social media,Medium,2.0,3,True,2026-08
+CMP-00760,2026-08-16,Billing error,Chat,Low,2.2,3,False,2026-08
+CMP-01123,2026-08-16,Poor agent communication,Email,Low,4.6,4,False,2026-08
+CMP-00208,2026-08-16,Account access,Chat,Medium,1.5,5,False,2026-08
+CMP-01282,2026-08-16,Late delivery,Chat,Medium,3.3,3,False,2026-08
+CMP-01771,2026-08-16,Billing error,Email,Low,1.1,4,False,2026-08
+CMP-00686,2026-08-16,Late delivery,Social media,Medium,2.4,4,True,2026-08
+CMP-00382,2026-08-17,Billing error,Phone,Medium,0.6,5,False,2026-08
+CMP-01366,2026-08-17,Poor agent communication,Email,Low,1.6,5,False,2026-08
+CMP-01573,2026-08-17,Poor agent communication,Chat,Low,0.8,5,False,2026-08
+CMP-01543,2026-08-17,Late delivery,Email,Medium,5.4,4,False,2026-08
+CMP-00832,2026-08-17,Billing error,Email,Low,4.3,3,False,2026-08
+CMP-00584,2026-08-18,Billing error,Phone,Medium,1.5,4,False,2026-08
+CMP-01535,2026-08-18,Late delivery,Email,Low,4.9,4,True,2026-08
+CMP-00587,2026-08-18,Account access,Phone,Low,1.7,4,False,2026-08
+CMP-00489,2026-08-18,Account access,Chat,Low,1.2,4,False,2026-08
+CMP-00592,2026-08-18,Refund delay,Email,Low,9.8,3,False,2026-08
+CMP-00415,2026-08-18,Billing error,Phone,Low,1.6,3,True,2026-08
+CMP-01949,2026-08-18,Billing error,Email,Low,2.4,3,False,2026-08
+CMP-01265,2026-08-18,Account access,Email,Low,2.0,4,False,2026-08
+CMP-01065,2026-08-18,Billing error,Chat,High,3.1,5,False,2026-08
+CMP-01613,2026-08-18,Billing error,Social media,Low,3.4,4,False,2026-08
+CMP-00649,2026-08-18,Late delivery,Chat,Medium,6.7,3,False,2026-08
+CMP-01029,2026-08-18,Account access,Chat,High,0.8,4,False,2026-08
+CMP-01659,2026-08-18,Refund delay,Phone,High,6.9,3,True,2026-08
+CMP-00884,2026-08-19,Billing error,Phone,Low,5.0,4,False,2026-08
+CMP-01298,2026-08-19,Poor agent communication,Phone,Low,0.8,4,True,2026-08
+CMP-01674,2026-08-19,Account access,Chat,Medium,1.4,5,False,2026-08
+CMP-01732,2026-08-19,Account access,Email,Low,0.5,4,False,2026-08
+CMP-00665,2026-08-19,Billing error,Email,Low,6.0,3,False,2026-08
+CMP-01169,2026-08-19,Refund delay,Social media,Low,4.1,3,False,2026-08
+CMP-01677,2026-08-20,Billing error,Chat,Low,1.8,4,False,2026-08
+CMP-01009,2026-08-20,Late delivery,Phone,Low,2.8,5,True,2026-08
+CMP-00869,2026-08-20,Late delivery,Chat,Low,6.1,2,False,2026-08
+CMP-01202,2026-08-20,Product / service quality,Phone,Low,3.4,3,False,2026-08
+CMP-00987,2026-08-20,Billing error,Email,Low,2.1,4,False,2026-08
+CMP-00552,2026-08-20,Product / service quality,Chat,Low,13.0,1,False,2026-08
+CMP-00053,2026-08-20,Late delivery,Email,Low,4.1,3,False,2026-08
+CMP-00689,2026-08-20,Billing error,Email,Medium,3.8,3,False,2026-08
+CMP-00863,2026-08-20,Product / service quality,Email,Medium,3.6,3,False,2026-08
+CMP-00038,2026-08-20,Late delivery,Email,Low,3.0,4,False,2026-08
+CMP-01068,2026-08-20,Late delivery,Phone,Medium,3.3,4,False,2026-08
+CMP-01722,2026-08-20,Late delivery,Chat,High,2.9,4,False,2026-08
+CMP-01143,2026-08-20,Product / service quality,Phone,Low,7.2,3,True,2026-08
+CMP-01014,2026-08-21,Late delivery,Chat,High,1.4,4,False,2026-08
+CMP-01438,2026-08-21,Billing error,Chat,High,1.1,4,False,2026-08
+CMP-01475,2026-08-21,Refund delay,Email,Low,4.2,4,False,2026-08
+CMP-00544,2026-08-21,Poor agent communication,Email,Low,0.5,4,False,2026-08
+CMP-01763,2026-08-21,Late delivery,Email,Low,4.0,4,False,2026-08
+CMP-00447,2026-08-21,Product / service quality,Chat,Low,4.2,4,False,2026-08
+CMP-01641,2026-08-21,Late delivery,Email,Low,1.6,5,False,2026-08
+CMP-00525,2026-08-21,Refund delay,Social media,Medium,3.9,3,False,2026-08
+CMP-00217,2026-08-21,Poor agent communication,Chat,Medium,2.0,4,False,2026-08
+CMP-01033,2026-08-21,Product / service quality,Email,Low,5.0,3,False,2026-08
+CMP-01528,2026-08-22,Poor agent communication,Chat,Medium,2.2,4,False,2026-08
+CMP-00166,2026-08-22,Refund delay,Email,Low,4.1,3,False,2026-08
+CMP-01059,2026-08-22,Refund delay,Social media,High,10.4,1,True,2026-08
+CMP-00781,2026-08-22,Product / service quality,Phone,Medium,11.6,1,True,2026-08
+CMP-00702,2026-08-22,Product / service quality,Phone,Medium,3.2,5,False,2026-08
+CMP-01285,2026-08-22,Poor agent communication,Email,Medium,3.4,3,True,2026-08
+CMP-00634,2026-08-22,Billing error,Chat,High,2.3,4,False,2026-08
+CMP-00029,2026-08-23,Product / service quality,Chat,Low,12.1,1,False,2026-08
+CMP-00276,2026-08-23,Product / service quality,Phone,Medium,1.8,3,False,2026-08
+CMP-00937,2026-08-23,Account access,Email,Low,1.2,5,False,2026-08
+CMP-01993,2026-08-23,Refund delay,Email,Low,10.6,2,False,2026-08
+CMP-01436,2026-08-23,Poor agent communication,Phone,Low,1.2,3,False,2026-08
+CMP-00812,2026-08-23,Billing error,Email,High,1.2,4,False,2026-08
+CMP-00737,2026-08-23,Refund delay,Social media,High,4.3,4,False,2026-08
+CMP-01376,2026-08-23,Account access,Phone,Medium,1.6,4,False,2026-08
+CMP-01565,2026-08-23,Poor agent communication,Phone,Low,1.0,5,False,2026-08
+CMP-01860,2026-08-23,Account access,Phone,Medium,1.9,3,False,2026-08
+CMP-00495,2026-08-23,Product / service quality,Chat,Low,6.6,3,True,2026-08
+CMP-00188,2026-08-23,Late delivery,Phone,Medium,1.7,3,False,2026-08
+CMP-00853,2026-08-23,Late delivery,Phone,Medium,2.0,3,True,2026-08
+CMP-00707,2026-08-23,Refund delay,Email,Medium,16.4,1,True,2026-08
+CMP-00302,2026-08-23,Late delivery,Email,Medium,2.2,3,False,2026-08
+CMP-01637,2026-08-23,Product / service quality,Phone,Medium,3.0,4,True,2026-08
+CMP-00253,2026-08-23,Late delivery,Phone,Medium,1.2,4,False,2026-08
+CMP-00332,2026-08-23,Billing error,Social media,Medium,0.9,4,False,2026-08
+CMP-00244,2026-08-23,Product / service quality,Phone,Low,1.0,4,True,2026-08
+CMP-01656,2026-08-24,Billing error,Email,Low,2.9,4,False,2026-08
+CMP-00174,2026-08-24,Late delivery,Chat,Low,3.8,3,False,2026-08
+CMP-01351,2026-08-24,Account access,Phone,Low,1.0,5,False,2026-08
+CMP-00810,2026-08-24,Account access,Chat,Medium,0.6,5,True,2026-08
+CMP-01729,2026-08-24,Billing error,Chat,Medium,1.0,4,False,2026-08
+CMP-01483,2026-08-24,Late delivery,Email,Low,2.0,4,False,2026-08
+CMP-00340,2026-08-24,Late delivery,Chat,Low,3.0,5,False,2026-08
+CMP-00019,2026-08-24,Product / service quality,Chat,High,1.7,5,False,2026-08
+CMP-00700,2026-08-24,Billing error,Phone,Medium,2.0,3,False,2026-08
+CMP-00688,2026-08-24,Billing error,Chat,Low,1.0,4,True,2026-08
+CMP-00131,2026-08-24,Account access,Chat,Low,1.1,5,False,2026-08
+CMP-01971,2026-08-24,Product / service quality,Phone,Low,9.7,2,True,2026-08
+CMP-01118,2026-08-24,Refund delay,Chat,Low,10.6,2,False,2026-08
+CMP-00560,2026-08-24,Late delivery,Email,Medium,3.6,3,False,2026-08
+CMP-00216,2026-08-25,Billing error,Phone,Low,2.0,3,False,2026-08
+CMP-01067,2026-08-25,Poor agent communication,Email,Medium,2.5,4,False,2026-08
+CMP-00289,2026-08-25,Product / service quality,Chat,Medium,3.0,4,True,2026-08
+CMP-01873,2026-08-25,Account access,Chat,Low,0.4,5,True,2026-08
+CMP-00914,2026-08-25,Billing error,Chat,Low,2.7,4,False,2026-08
+CMP-00997,2026-08-25,Poor agent communication,Chat,Medium,1.6,4,True,2026-08
+CMP-00213,2026-08-25,Late delivery,Social media,Medium,8.7,2,True,2026-08
+CMP-01234,2026-08-25,Account access,Email,Low,1.3,4,False,2026-08
+CMP-01186,2026-08-25,Poor agent communication,Email,Medium,3.6,4,False,2026-08
+CMP-00963,2026-08-26,Late delivery,Chat,High,4.1,4,False,2026-08
+CMP-01576,2026-08-26,Late delivery,Social media,Low,3.3,3,False,2026-08
+CMP-00886,2026-08-26,Late delivery,Email,Medium,2.2,5,False,2026-08
+CMP-00626,2026-08-26,Late delivery,Chat,Medium,0.6,4,False,2026-08
+CMP-00862,2026-08-26,Refund delay,Phone,High,3.6,3,False,2026-08
+CMP-00041,2026-08-26,Late delivery,Email,Low,8.0,3,False,2026-08
+CMP-01062,2026-08-26,Late delivery,Social media,Low,4.4,4,False,2026-08
+CMP-01835,2026-08-26,Poor agent communication,Phone,Low,1.5,3,False,2026-08
+CMP-00403,2026-08-26,Late delivery,Chat,Medium,4.8,4,True,2026-08
+CMP-00043,2026-08-27,Refund delay,Social media,Medium,4.8,2,True,2026-08
+CMP-01023,2026-08-27,Billing error,Phone,Medium,2.7,3,False,2026-08
+CMP-01788,2026-08-27,Late delivery,Social media,Medium,3.0,3,False,2026-08
+CMP-01611,2026-08-27,Billing error,Chat,Low,1.4,4,False,2026-08
+CMP-01266,2026-08-27,Late delivery,Social media,Medium,2.0,5,False,2026-08
+CMP-01647,2026-08-27,Refund delay,Social media,Low,2.4,5,False,2026-08
+CMP-01293,2026-08-27,Product / service quality,Phone,Low,3.1,4,False,2026-08
+CMP-00438,2026-08-27,Product / service quality,Chat,Medium,7.3,2,False,2026-08
+CMP-01035,2026-08-27,Late delivery,Chat,Medium,2.1,5,False,2026-08
+CMP-00235,2026-08-27,Late delivery,Email,Medium,5.2,2,False,2026-08
+CMP-00521,2026-08-27,Billing error,Email,Low,5.2,4,False,2026-08
+CMP-00630,2026-08-28,Late delivery,Email,Low,2.2,3,False,2026-08
+CMP-00322,2026-08-28,Late delivery,Chat,Low,2.0,2,False,2026-08
+CMP-00803,2026-08-28,Poor agent communication,Phone,Medium,1.7,3,False,2026-08
+CMP-00976,2026-08-28,Poor agent communication,Chat,Low,1.2,4,False,2026-08
+CMP-01251,2026-08-28,Account access,Social media,Low,1.4,4,False,2026-08
+CMP-01063,2026-08-28,Account access,Chat,Medium,0.6,4,False,2026-08
+CMP-01098,2026-08-28,Billing error,Email,Medium,2.5,3,False,2026-08
+CMP-01762,2026-08-28,Late delivery,Chat,Medium,2.7,4,False,2026-08
+CMP-01462,2026-08-28,Refund delay,Email,High,9.1,2,False,2026-08
+CMP-01888,2026-08-28,Billing error,Email,Medium,6.6,3,False,2026-08
+CMP-01407,2026-08-28,Product / service quality,Email,Low,4.3,3,False,2026-08
+CMP-01757,2026-08-28,Billing error,Phone,Low,1.0,4,False,2026-08
+CMP-00168,2026-08-28,Product / service quality,Phone,Low,2.3,4,False,2026-08
+CMP-01082,2026-08-28,Late delivery,Chat,Medium,6.3,4,False,2026-08
+CMP-01779,2026-08-28,Late delivery,Phone,Low,1.4,5,False,2026-08
+CMP-01952,2026-08-29,Late delivery,Phone,Low,7.9,3,False,2026-08
+CMP-01108,2026-08-29,Late delivery,Chat,Low,3.2,5,False,2026-08
+CMP-00094,2026-08-29,Refund delay,Phone,Low,3.6,4,False,2026-08
+CMP-01622,2026-08-29,Poor agent communication,Chat,Medium,1.8,5,False,2026-08
+CMP-00874,2026-08-29,Account access,Email,Medium,1.2,4,False,2026-08
+CMP-01338,2026-08-29,Product / service quality,Email,High,3.9,2,True,2026-08
+CMP-01918,2026-08-29,Account access,Chat,Low,0.7,5,False,2026-08
+CMP-01733,2026-08-29,Poor agent communication,Email,Low,2.1,3,False,2026-08
+CMP-01708,2026-08-29,Late delivery,Email,High,3.4,3,False,2026-08
+CMP-00338,2026-08-29,Late delivery,Phone,Low,1.3,4,True,2026-08
+CMP-00497,2026-08-29,Poor agent communication,Chat,Low,1.7,4,False,2026-08
+CMP-01441,2026-08-29,Billing error,Chat,Medium,1.6,5,False,2026-08
+CMP-00076,2026-08-29,Poor agent communication,Email,Low,1.6,3,False,2026-08
+CMP-00378,2026-08-29,Refund delay,Email,Low,4.6,3,False,2026-08
+CMP-00073,2026-08-29,Poor agent communication,Email,Low,0.9,4,False,2026-08
+CMP-00081,2026-08-30,Late delivery,Email,Low,7.8,2,True,2026-08
+CMP-01901,2026-08-30,Late delivery,Chat,Low,2.2,5,False,2026-08
+CMP-01810,2026-08-30,Account access,Email,Medium,1.9,3,False,2026-08
+CMP-00381,2026-08-30,Late delivery,Phone,Medium,2.5,4,False,2026-08
+CMP-01197,2026-08-30,Billing error,Email,Low,1.3,4,False,2026-08
+CMP-01295,2026-08-30,Late delivery,Email,Low,8.8,3,True,2026-08
+CMP-01326,2026-08-30,Account access,Email,Low,0.7,4,False,2026-08
+CMP-01387,2026-08-30,Billing error,Social media,Low,1.3,5,False,2026-08
+CMP-01900,2026-08-30,Refund delay,Chat,Low,3.5,3,False,2026-08
+CMP-00877,2026-08-30,Product / service quality,Email,Medium,7.0,3,False,2026-08
+CMP-00272,2026-08-30,Late delivery,Email,Medium,9.6,1,False,2026-08
+CMP-00846,2026-08-30,Refund delay,Phone,Medium,7.6,1,False,2026-08
+CMP-00222,2026-08-30,Late delivery,Chat,Low,4.4,4,False,2026-08
+CMP-00798,2026-08-30,Refund delay,Chat,Low,2.4,4,False,2026-08
+CMP-00918,2026-08-31,Account access,Phone,High,0.7,5,False,2026-08
+CMP-00182,2026-08-31,Poor agent communication,Social media,Low,2.5,4,True,2026-08
+CMP-00434,2026-08-31,Refund delay,Chat,Low,2.7,5,False,2026-08
+CMP-01885,2026-08-31,Billing error,Email,Medium,2.8,4,False,2026-08
+CMP-00392,2026-08-31,Poor agent communication,Phone,Medium,1.1,4,False,2026-08
+CMP-00470,2026-08-31,Product / service quality,Chat,Medium,6.4,3,True,2026-08
+CMP-01536,2026-08-31,Account access,Social media,Low,1.6,4,False,2026-08
+CMP-00420,2026-08-31,Late delivery,Social media,High,3.8,4,True,2026-08
+CMP-00333,2026-08-31,Product / service quality,Social media,Medium,2.3,4,False,2026-08
+CMP-01887,2026-08-31,Billing error,Phone,Low,2.9,5,False,2026-08
+CMP-00566,2026-09-01,Poor agent communication,Email,Low,0.9,5,True,2026-09
+CMP-01946,2026-09-01,Late delivery,Phone,Medium,0.9,5,False,2026-09
+CMP-00889,2026-09-01,Product / service quality,Email,Low,7.2,2,True,2026-09
+CMP-01905,2026-09-01,Account access,Email,Medium,1.0,3,False,2026-09
+CMP-01632,2026-09-01,Late delivery,Phone,Medium,0.9,4,False,2026-09
+CMP-01629,2026-09-01,Late delivery,Phone,Low,3.8,4,True,2026-09
+CMP-01263,2026-09-01,Late delivery,Email,Medium,7.3,2,False,2026-09
+CMP-00744,2026-09-01,Late delivery,Chat,Low,4.8,3,False,2026-09
+CMP-00535,2026-09-02,Product / service quality,Phone,Medium,3.1,4,False,2026-09
+CMP-00473,2026-09-02,Poor agent communication,Phone,High,2.7,4,True,2026-09
+CMP-01869,2026-09-02,Refund delay,Chat,Medium,6.3,3,False,2026-09
+CMP-01262,2026-09-02,Billing error,Chat,High,3.1,3,False,2026-09
+CMP-01219,2026-09-02,Billing error,Email,Medium,8.2,2,False,2026-09
+CMP-01896,2026-09-02,Refund delay,Email,Medium,7.3,1,True,2026-09
+CMP-00547,2026-09-02,Late delivery,Phone,Medium,1.7,4,False,2026-09
+CMP-01770,2026-09-02,Poor agent communication,Email,Low,1.2,5,False,2026-09
+CMP-00902,2026-09-02,Refund delay,Social media,Medium,5.6,3,True,2026-09
+CMP-01744,2026-09-02,Account access,Social media,Low,1.1,4,False,2026-09
+CMP-00939,2026-09-02,Late delivery,Phone,Medium,3.7,3,True,2026-09
+CMP-00352,2026-09-02,Late delivery,Phone,Low,5.0,3,True,2026-09
+CMP-01517,2026-09-02,Product / service quality,Social media,Low,3.5,3,False,2026-09
+CMP-00113,2026-09-02,Late delivery,Phone,Medium,3.9,4,False,2026-09
+CMP-01778,2026-09-02,Billing error,Social media,Medium,0.7,5,False,2026-09
+CMP-01191,2026-09-02,Late delivery,Phone,Low,2.5,3,False,2026-09
+CMP-01094,2026-09-03,Account access,Email,Medium,1.2,4,True,2026-09
+CMP-00563,2026-09-03,Billing error,Phone,Low,0.7,5,False,2026-09
+CMP-01832,2026-09-03,Late delivery,Email,High,2.8,4,False,2026-09
+CMP-01602,2026-09-03,Refund delay,Email,Low,6.9,3,False,2026-09
+CMP-01440,2026-09-03,Late delivery,Phone,Low,2.0,3,False,2026-09
+CMP-00178,2026-09-03,Poor agent communication,Chat,Medium,1.8,5,True,2026-09
+CMP-00199,2026-09-03,Account access,Email,High,1.8,5,False,2026-09
+CMP-01305,2026-09-03,Product / service quality,Chat,Medium,4.2,3,False,2026-09
+CMP-01963,2026-09-03,Late delivery,Email,High,3.2,5,False,2026-09
+CMP-01032,2026-09-03,Poor agent communication,Phone,Medium,0.7,4,False,2026-09
+CMP-00865,2026-09-03,Billing error,Phone,Low,2.7,4,False,2026-09
+CMP-01814,2026-09-03,Billing error,Chat,Low,4.3,3,False,2026-09
+CMP-00637,2026-09-03,Billing error,Email,Low,3.8,4,False,2026-09
+CMP-01898,2026-09-03,Late delivery,Phone,Low,2.0,4,True,2026-09
+CMP-01650,2026-09-03,Product / service quality,Phone,Low,1.7,4,True,2026-09
+CMP-01203,2026-09-03,Billing error,Phone,Medium,2.0,3,False,2026-09
+CMP-00138,2026-09-03,Refund delay,Email,Low,3.2,4,False,2026-09
+CMP-01723,2026-09-04,Poor agent communication,Email,Medium,6.8,1,False,2026-09
+CMP-01864,2026-09-04,Late delivery,Email,Medium,2.8,4,False,2026-09
+CMP-00970,2026-09-04,Product / service quality,Email,Medium,23.9,1,False,2026-09
+CMP-00468,2026-09-04,Poor agent communication,Email,Medium,2.4,4,False,2026-09
+CMP-00177,2026-09-04,Poor agent communication,Email,Low,0.9,5,False,2026-09
+CMP-00196,2026-09-04,Product / service quality,Email,Medium,7.5,2,False,2026-09
+CMP-01155,2026-09-04,Billing error,Phone,Medium,0.9,4,False,2026-09
+CMP-00667,2026-09-05,Product / service quality,Chat,Low,2.7,2,False,2026-09
+CMP-00920,2026-09-05,Poor agent communication,Chat,Medium,0.7,4,False,2026-09
+CMP-00198,2026-09-05,Billing error,Email,Low,2.9,3,True,2026-09
+CMP-00924,2026-09-05,Late delivery,Phone,Low,2.4,3,False,2026-09
+CMP-01981,2026-09-05,Refund delay,Chat,Medium,2.6,4,False,2026-09
+CMP-01551,2026-09-05,Poor agent communication,Email,High,2.7,3,False,2026-09
+CMP-01240,2026-09-05,Product / service quality,Phone,Medium,2.2,3,False,2026-09
+CMP-01589,2026-09-05,Late delivery,Chat,Low,1.3,4,False,2026-09
+CMP-01038,2026-09-05,Billing error,Chat,Medium,2.9,4,True,2026-09
+CMP-01296,2026-09-05,Account access,Chat,Low,1.1,4,False,2026-09
+CMP-01937,2026-09-05,Poor agent communication,Email,Medium,1.5,5,False,2026-09
+CMP-01163,2026-09-06,Account access,Email,Low,0.8,4,False,2026-09
+CMP-01997,2026-09-06,Late delivery,Chat,Low,3.3,4,False,2026-09
+CMP-00484,2026-09-06,Account access,Phone,Medium,1.0,4,True,2026-09
+CMP-01415,2026-09-06,Product / service quality,Email,Low,2.0,4,False,2026-09
+CMP-01846,2026-09-06,Billing error,Chat,Low,1.4,4,True,2026-09
+CMP-01947,2026-09-06,Late delivery,Phone,Medium,1.5,4,False,2026-09
+CMP-01627,2026-09-06,Product / service quality,Chat,Medium,2.7,3,True,2026-09
+CMP-00596,2026-09-06,Refund delay,Chat,Medium,1.7,4,True,2026-09
+CMP-00015,2026-09-06,Refund delay,Email,Medium,6.7,4,True,2026-09
+CMP-00496,2026-09-07,Late delivery,Email,High,1.7,5,False,2026-09
+CMP-00623,2026-09-07,Account access,Email,Medium,1.0,5,False,2026-09
+CMP-01287,2026-09-07,Billing error,Phone,Low,2.5,3,True,2026-09
+CMP-01268,2026-09-07,Late delivery,Chat,Medium,2.0,3,False,2026-09
+CMP-01435,2026-09-07,Refund delay,Phone,Low,5.4,3,True,2026-09
+CMP-00414,2026-09-07,Billing error,Phone,High,2.1,3,True,2026-09
+CMP-01205,2026-09-07,Account access,Email,High,1.3,3,True,2026-09
+CMP-01893,2026-09-07,Refund delay,Email,Medium,1.9,4,False,2026-09
+CMP-01259,2026-09-07,Product / service quality,Chat,High,8.3,1,True,2026-09
+CMP-01527,2026-09-08,Billing error,Email,High,1.2,4,False,2026-09
+CMP-00347,2026-09-08,Account access,Phone,Low,0.5,5,False,2026-09
+CMP-01134,2026-09-08,Product / service quality,Email,Medium,8.0,3,True,2026-09
+CMP-00640,2026-09-08,Poor agent communication,Social media,High,2.4,4,False,2026-09
+CMP-00357,2026-09-08,Poor agent communication,Email,Low,2.4,3,False,2026-09
+CMP-00499,2026-09-08,Refund delay,Phone,Low,4.3,4,False,2026-09
+CMP-00262,2026-09-09,Poor agent communication,Email,Medium,2.9,4,True,2026-09
+CMP-00229,2026-09-09,Poor agent communication,Phone,Low,1.2,4,False,2026-09
+CMP-00859,2026-09-09,Account access,Email,Low,2.1,5,False,2026-09
+CMP-01025,2026-09-09,Account access,Social media,Medium,1.9,3,False,2026-09
+CMP-00800,2026-09-09,Product / service quality,Phone,Low,1.0,5,False,2026-09
+CMP-01100,2026-09-09,Late delivery,Social media,Medium,1.4,4,True,2026-09
+CMP-01680,2026-09-09,Product / service quality,Phone,Medium,2.4,5,False,2026-09
+CMP-01103,2026-09-09,Billing error,Email,Low,2.2,4,True,2026-09
+CMP-00643,2026-09-09,Product / service quality,Email,Low,6.5,3,True,2026-09
+CMP-00274,2026-09-09,Account access,Phone,Medium,0.9,4,False,2026-09
+CMP-01941,2026-09-09,Billing error,Email,Low,1.5,3,False,2026-09
+CMP-01811,2026-09-09,Billing error,Chat,Medium,4.4,4,False,2026-09
+CMP-01824,2026-09-10,Poor agent communication,Phone,Low,1.5,5,False,2026-09
+CMP-01911,2026-09-10,Refund delay,Email,Low,7.5,2,True,2026-09
+CMP-00035,2026-09-10,Product / service quality,Email,Medium,8.1,3,True,2026-09
+CMP-01019,2026-09-10,Billing error,Phone,Low,1.6,4,False,2026-09
+CMP-01682,2026-09-10,Product / service quality,Email,Low,15.6,1,False,2026-09
+CMP-01780,2026-09-10,Poor agent communication,Email,Low,1.4,5,False,2026-09
+CMP-01510,2026-09-10,Late delivery,Email,Medium,2.4,4,True,2026-09
+CMP-00271,2026-09-10,Refund delay,Social media,Medium,6.8,3,True,2026-09
+CMP-00319,2026-09-11,Late delivery,Phone,Medium,2.1,4,False,2026-09
+CMP-00153,2026-09-11,Product / service quality,Email,Medium,9.3,3,False,2026-09
+CMP-00226,2026-09-11,Late delivery,Chat,Low,3.3,4,True,2026-09
+CMP-00612,2026-09-11,Product / service quality,Chat,Medium,2.9,4,False,2026-09
+CMP-01122,2026-09-11,Late delivery,Email,Low,2.1,4,False,2026-09
+CMP-00243,2026-09-11,Billing error,Phone,Low,3.0,3,False,2026-09
+CMP-00363,2026-09-11,Billing error,Email,Medium,2.4,4,False,2026-09
+CMP-00739,2026-09-11,Billing error,Phone,Low,2.2,5,False,2026-09
+CMP-00895,2026-09-11,Late delivery,Chat,Low,2.9,3,False,2026-09
+CMP-01881,2026-09-11,Late delivery,Email,Low,2.9,4,False,2026-09
+CMP-01509,2026-09-12,Product / service quality,Social media,Low,6.2,3,False,2026-09
+CMP-01439,2026-09-12,Refund delay,Chat,Low,5.2,3,True,2026-09
+CMP-00669,2026-09-12,Billing error,Chat,High,0.9,3,False,2026-09
+CMP-01727,2026-09-12,Billing error,Email,Low,2.4,4,False,2026-09
+CMP-01704,2026-09-12,Account access,Phone,Medium,0.6,5,False,2026-09
+CMP-01953,2026-09-12,Product / service quality,Social media,Low,5.7,4,True,2026-09
+CMP-00982,2026-09-12,Refund delay,Email,Medium,9.5,2,False,2026-09
+CMP-01195,2026-09-12,Late delivery,Chat,Low,5.7,4,False,2026-09
+CMP-01128,2026-09-12,Late delivery,Chat,Medium,3.4,5,False,2026-09
+CMP-01034,2026-09-12,Late delivery,Email,Low,1.1,4,False,2026-09
+CMP-01839,2026-09-12,Billing error,Phone,Low,2.8,3,False,2026-09
+CMP-01851,2026-09-12,Billing error,Email,Low,2.4,3,False,2026-09
+CMP-01979,2026-09-12,Refund delay,Email,High,11.8,1,False,2026-09
+CMP-00673,2026-09-12,Late delivery,Email,Low,10.0,2,True,2026-09
+CMP-00115,2026-09-13,Late delivery,Phone,Low,3.2,3,False,2026-09
+CMP-00111,2026-09-13,Poor agent communication,Email,High,2.3,4,False,2026-09
+CMP-01615,2026-09-13,Refund delay,Chat,Low,5.4,3,True,2026-09
+CMP-00854,2026-09-13,Late delivery,Email,Medium,2.4,4,False,2026-09
+CMP-00234,2026-09-13,Account access,Email,Low,1.0,4,False,2026-09
+CMP-01280,2026-09-13,Billing error,Chat,Low,1.5,5,False,2026-09
+CMP-00463,2026-09-13,Refund delay,Phone,Low,3.6,2,False,2026-09
+CMP-01261,2026-09-13,Product / service quality,Email,Low,5.7,4,False,2026-09
+CMP-01775,2026-09-13,Billing error,Chat,High,3.5,3,True,2026-09
+CMP-00512,2026-09-13,Poor agent communication,Chat,Low,2.3,4,False,2026-09
+CMP-00108,2026-09-13,Product / service quality,Social media,Medium,1.8,5,False,2026-09
+CMP-00622,2026-09-13,Late delivery,Chat,Medium,6.7,3,False,2026-09
+CMP-00716,2026-09-13,Billing error,Email,Medium,3.6,4,False,2026-09
+CMP-01716,2026-09-13,Refund delay,Email,Low,10.6,3,False,2026-09
+CMP-01352,2026-09-13,Billing error,Social media,Medium,1.8,3,True,2026-09
+CMP-00418,2026-09-13,Billing error,Email,Low,2.3,3,False,2026-09
+CMP-01363,2026-09-13,Product / service quality,Phone,Medium,4.4,4,True,2026-09
+CMP-00396,2026-09-13,Late delivery,Email,High,4.3,4,False,2026-09
+CMP-01694,2026-09-13,Account access,Phone,Medium,0.6,5,False,2026-09
+CMP-00998,2026-09-13,Late delivery,Chat,Medium,0.9,3,False,2026-09
+CMP-01426,2026-09-13,Account access,Social media,High,1.0,5,False,2026-09
+CMP-00594,2026-09-14,Refund delay,Phone,Medium,3.3,4,False,2026-09
+CMP-01148,2026-09-14,Refund delay,Phone,Low,3.0,4,True,2026-09
+CMP-00266,2026-09-14,Late delivery,Email,Low,4.1,3,True,2026-09
+CMP-00451,2026-09-14,Billing error,Email,Low,1.3,5,False,2026-09
+CMP-01669,2026-09-14,Account access,Chat,Medium,0.4,5,False,2026-09
+CMP-01214,2026-09-14,Account access,Email,Medium,0.8,4,False,2026-09
+CMP-00548,2026-09-14,Billing error,Email,Medium,1.9,4,False,2026-09
+CMP-01110,2026-09-15,Billing error,Chat,High,1.8,5,False,2026-09
+CMP-00443,2026-09-15,Late delivery,Phone,Medium,3.4,3,False,2026-09
+CMP-01802,2026-09-15,Refund delay,Phone,High,6.8,4,False,2026-09
+CMP-01043,2026-09-15,Late delivery,Email,High,1.0,4,False,2026-09
+CMP-01131,2026-09-15,Late delivery,Email,Low,5.0,3,True,2026-09
+CMP-01607,2026-09-15,Late delivery,Email,Medium,4.1,3,False,2026-09
+CMP-00072,2026-09-15,Billing error,Email,Low,8.7,2,False,2026-09
+CMP-00534,2026-09-15,Poor agent communication,Email,Medium,2.4,4,False,2026-09
+CMP-00212,2026-09-15,Billing error,Social media,Medium,1.0,5,False,2026-09
+CMP-00146,2026-09-15,Account access,Email,Medium,1.1,5,False,2026-09
+CMP-01755,2026-09-15,Late delivery,Chat,Low,1.6,5,False,2026-09
+CMP-00422,2026-09-15,Poor agent communication,Phone,High,1.4,4,False,2026-09
+CMP-00238,2026-09-15,Late delivery,Phone,Low,2.5,4,False,2026-09
+CMP-00908,2026-09-15,Account access,Phone,Medium,0.4,5,True,2026-09
+CMP-00112,2026-09-15,Account access,Email,Medium,1.5,5,False,2026-09
+CMP-00808,2026-09-15,Late delivery,Email,Low,4.8,3,False,2026-09
+CMP-01631,2026-09-15,Billing error,Chat,Medium,2.8,4,False,2026-09
+CMP-00275,2026-09-16,Billing error,Phone,Low,6.0,2,True,2026-09
+CMP-00580,2026-09-16,Late delivery,Chat,Medium,2.1,3,True,2026-09
+CMP-01561,2026-09-16,Account access,Phone,High,0.5,5,False,2026-09
+CMP-00517,2026-09-16,Late delivery,Chat,Medium,3.2,4,False,2026-09
+CMP-00745,2026-09-16,Poor agent communication,Email,Low,16.8,1,True,2026-09
+CMP-00257,2026-09-16,Late delivery,Email,Medium,3.3,4,True,2026-09
+CMP-01208,2026-09-16,Late delivery,Phone,Medium,2.5,4,True,2026-09
+CMP-00256,2026-09-16,Billing error,Social media,Low,0.6,5,False,2026-09
+CMP-00770,2026-09-16,Billing error,Phone,High,1.2,5,False,2026-09
+CMP-00749,2026-09-16,Poor agent communication,Email,Medium,3.1,3,False,2026-09
+CMP-00101,2026-09-16,Account access,Phone,Medium,0.8,4,False,2026-09
+CMP-00613,2026-09-16,Poor agent communication,Social media,Medium,1.5,3,False,2026-09
+CMP-01709,2026-09-16,Late delivery,Social media,Low,2.8,5,False,2026-09
+CMP-00734,2026-09-17,Late delivery,Social media,Medium,5.4,4,True,2026-09
+CMP-00240,2026-09-17,Account access,Chat,Medium,1.1,5,False,2026-09
+CMP-00873,2026-09-17,Late delivery,Chat,Low,4.8,3,False,2026-09
+CMP-01526,2026-09-17,Late delivery,Phone,Medium,2.5,4,True,2026-09
+CMP-01777,2026-09-17,Account access,Social media,Low,1.2,4,False,2026-09
+CMP-00042,2026-09-17,Account access,Phone,Low,1.2,4,False,2026-09
+CMP-00342,2026-09-17,Billing error,Email,Low,3.9,3,True,2026-09
+CMP-01160,2026-09-17,Refund delay,Chat,High,4.9,4,False,2026-09
+CMP-01917,2026-09-17,Product / service quality,Email,Low,4.2,4,False,2026-09
+CMP-00301,2026-09-17,Product / service quality,Social media,High,1.4,4,False,2026-09
+CMP-00955,2026-09-17,Product / service quality,Phone,High,4.1,4,False,2026-09
+CMP-00328,2026-09-17,Account access,Email,High,1.9,3,False,2026-09
+CMP-01787,2026-09-18,Late delivery,Phone,Low,7.8,2,True,2026-09
+CMP-01658,2026-09-18,Refund delay,Email,Low,1.7,4,False,2026-09
+CMP-01985,2026-09-18,Poor agent communication,Email,High,0.8,5,False,2026-09
+CMP-00068,2026-09-18,Late delivery,Phone,Low,3.4,5,True,2026-09
+CMP-01253,2026-09-18,Refund delay,Phone,Low,2.7,5,False,2026-09
+CMP-01564,2026-09-18,Poor agent communication,Email,Medium,1.7,5,False,2026-09
+CMP-00828,2026-09-18,Late delivery,Phone,High,1.9,5,True,2026-09
+CMP-00636,2026-09-18,Refund delay,Email,Low,3.8,2,False,2026-09
+CMP-01217,2026-09-18,Poor agent communication,Social media,Medium,1.9,4,False,2026-09
+CMP-00539,2026-09-18,Poor agent communication,Phone,Low,4.0,3,False,2026-09
+CMP-01080,2026-09-19,Account access,Email,Medium,0.8,4,True,2026-09
+CMP-01809,2026-09-19,Account access,Chat,Low,1.5,4,False,2026-09
+CMP-01746,2026-09-19,Refund delay,Chat,Low,3.7,3,False,2026-09
+CMP-01136,2026-09-19,Late delivery,Phone,Medium,3.3,3,False,2026-09
+CMP-01649,2026-09-19,Late delivery,Email,Medium,3.9,2,True,2026-09
+CMP-01783,2026-09-19,Refund delay,Email,Medium,6.5,3,True,2026-09
+CMP-00743,2026-09-19,Product / service quality,Email,High,4.5,3,False,2026-09
+CMP-00416,2026-09-20,Product / service quality,Chat,Low,4.0,4,False,2026-09
+CMP-00807,2026-09-20,Account access,Social media,Low,0.8,5,False,2026-09
+CMP-01702,2026-09-20,Product / service quality,Email,Low,3.1,4,True,2026-09
+CMP-00708,2026-09-20,Refund delay,Phone,Low,1.7,4,False,2026-09
+CMP-01005,2026-09-20,Late delivery,Social media,Low,5.4,3,False,2026-09
+CMP-00651,2026-09-20,Product / service quality,Email,Medium,1.9,4,False,2026-09
+CMP-01224,2026-09-20,Account access,Chat,High,0.5,3,False,2026-09
+CMP-01794,2026-09-20,Late delivery,Chat,Low,2.9,4,True,2026-09
+CMP-01187,2026-09-20,Late delivery,Email,Low,2.3,4,False,2026-09
+CMP-00404,2026-09-20,Refund delay,Social media,Low,4.3,3,False,2026-09
+CMP-00063,2026-09-20,Product / service quality,Email,Low,6.6,1,False,2026-09
+CMP-00225,2026-09-21,Refund delay,Social media,Medium,5.5,4,False,2026-09
+CMP-00576,2026-09-21,Late delivery,Chat,Low,3.2,4,True,2026-09
+CMP-01996,2026-09-21,Billing error,Email,Low,2.4,5,False,2026-09
+CMP-00945,2026-09-21,Late delivery,Chat,Medium,0.4,4,False,2026-09
+CMP-01705,2026-09-21,Late delivery,Chat,Medium,3.8,4,False,2026-09
+CMP-01756,2026-09-21,Late delivery,Chat,Low,5.9,2,True,2026-09
+CMP-01084,2026-09-21,Refund delay,Chat,High,1.9,5,False,2026-09
+CMP-00559,2026-09-21,Late delivery,Social media,High,2.8,3,False,2026-09
+CMP-01815,2026-09-21,Billing error,Email,Medium,2.0,4,False,2026-09
+CMP-00056,2026-09-21,Late delivery,Phone,High,2.3,4,True,2026-09
+CMP-00314,2026-09-21,Product / service quality,Email,Medium,3.9,3,True,2026-09
+CMP-01226,2026-09-21,Refund delay,Phone,Medium,5.9,3,False,2026-09
+CMP-00631,2026-09-22,Refund delay,Chat,Low,5.3,3,False,2026-09
+CMP-01944,2026-09-22,Refund delay,Email,High,2.4,4,False,2026-09
+CMP-01648,2026-09-22,Product / service quality,Chat,High,8.2,3,True,2026-09
+CMP-01319,2026-09-22,Product / service quality,Chat,Low,3.6,3,False,2026-09
+CMP-01232,2026-09-22,Billing error,Email,High,1.4,4,False,2026-09
+CMP-01337,2026-09-22,Product / service quality,Phone,Medium,18.7,1,True,2026-09
+CMP-01119,2026-09-22,Account access,Email,Low,1.4,4,False,2026-09
+CMP-01271,2026-09-22,Refund delay,Chat,Low,5.7,3,False,2026-09
+CMP-00458,2026-09-22,Billing error,Phone,Low,1.8,5,False,2026-09
+CMP-01272,2026-09-22,Account access,Phone,Low,1.4,5,False,2026-09
+CMP-00852,2026-09-22,Late delivery,Chat,Low,1.6,4,False,2026-09
+CMP-01464,2026-09-22,Late delivery,Phone,Low,2.0,4,False,2026-09
+CMP-01353,2026-09-22,Late delivery,Email,Low,3.6,3,False,2026-09
+CMP-00926,2026-09-23,Late delivery,Chat,Medium,3.9,4,True,2026-09
+CMP-00912,2026-09-23,Poor agent communication,Chat,Low,1.7,4,False,2026-09
+CMP-00608,2026-09-23,Billing error,Social media,High,2.6,5,False,2026-09
+CMP-00768,2026-09-23,Billing error,Social media,High,4.8,3,False,2026-09
+CMP-01753,2026-09-23,Account access,Email,Low,1.3,4,False,2026-09
+CMP-01182,2026-09-24,Late delivery,Chat,Medium,1.9,3,False,2026-09
+CMP-00126,2026-09-24,Late delivery,Email,Medium,4.2,3,False,2026-09
+CMP-01027,2026-09-24,Product / service quality,Chat,Medium,2.0,3,True,2026-09
+CMP-01943,2026-09-24,Account access,Email,Low,0.9,5,False,2026-09
+CMP-01156,2026-09-24,Billing error,Email,Medium,1.6,3,False,2026-09
+CMP-01752,2026-09-24,Account access,Email,Medium,2.8,4,False,2026-09
+CMP-01176,2026-09-24,Billing error,Email,High,1.9,4,False,2026-09
+CMP-00204,2026-09-24,Late delivery,Email,Low,3.9,2,False,2026-09
+CMP-00436,2026-09-24,Late delivery,Email,Medium,1.7,4,False,2026-09
+CMP-00558,2026-09-24,Late delivery,Email,Low,5.3,3,False,2026-09
+CMP-00285,2026-09-24,Product / service quality,Phone,Low,4.2,4,False,2026-09
+CMP-00192,2026-09-24,Refund delay,Chat,High,10.4,2,True,2026-09
+CMP-01487,2026-09-25,Account access,Chat,Medium,1.3,5,False,2026-09
+CMP-00856,2026-09-25,Billing error,Email,Low,2.6,3,False,2026-09
+CMP-01567,2026-09-25,Refund delay,Email,Low,6.0,2,False,2026-09
+CMP-01389,2026-09-25,Product / service quality,Email,High,3.2,4,True,2026-09
+CMP-00152,2026-09-25,Poor agent communication,Phone,Low,0.4,5,False,2026-09
+CMP-00246,2026-09-25,Billing error,Chat,Low,0.8,4,False,2026-09
+CMP-00876,2026-09-25,Late delivery,Phone,Low,3.4,3,False,2026-09
+CMP-01804,2026-09-25,Billing error,Chat,Medium,1.8,4,False,2026-09
+CMP-00149,2026-09-25,Refund delay,Chat,Medium,7.4,2,False,2026-09
+CMP-00695,2026-09-25,Late delivery,Email,Medium,4.7,3,False,2026-09
+CMP-00431,2026-09-26,Product / service quality,Email,Medium,3.1,4,False,2026-09
+CMP-01448,2026-09-26,Account access,Social media,Medium,0.7,4,False,2026-09
+CMP-00362,2026-09-26,Refund delay,Email,Medium,2.7,5,False,2026-09
+CMP-00680,2026-09-26,Poor agent communication,Email,Low,1.4,5,False,2026-09
+CMP-00450,2026-09-26,Poor agent communication,Phone,Medium,1.4,3,False,2026-09
+CMP-01471,2026-09-26,Late delivery,Chat,Low,2.7,4,False,2026-09
+CMP-00866,2026-09-26,Late delivery,Chat,Low,1.1,3,True,2026-09
+CMP-01470,2026-09-26,Billing error,Chat,High,3.4,3,True,2026-09
+CMP-01041,2026-09-26,Late delivery,Chat,Low,1.9,5,False,2026-09
+CMP-00071,2026-09-26,Product / service quality,Phone,Medium,2.7,4,True,2026-09
+CMP-01342,2026-09-26,Refund delay,Email,Medium,4.9,3,True,2026-09
+CMP-01606,2026-09-26,Billing error,Email,Medium,3.7,3,False,2026-09
+CMP-01962,2026-09-27,Billing error,Social media,Low,1.9,5,False,2026-09
+CMP-01493,2026-09-27,Billing error,Social media,Medium,1.7,4,True,2026-09
+CMP-01307,2026-09-27,Late delivery,Email,Low,3.8,4,True,2026-09
+CMP-01339,2026-09-27,Billing error,Email,Low,0.9,4,False,2026-09
+CMP-01237,2026-09-27,Account access,Social media,Low,0.8,4,True,2026-09
+CMP-01934,2026-09-27,Refund delay,Email,Medium,11.6,2,True,2026-09
+CMP-00671,2026-09-27,Refund delay,Chat,High,6.2,4,True,2026-09
+CMP-00697,2026-09-27,Account access,Email,Low,1.0,5,True,2026-09
+CMP-00893,2026-09-27,Billing error,Email,Medium,1.8,4,False,2026-09
+CMP-00194,2026-09-27,Refund delay,Phone,Low,3.2,4,False,2026-09
+CMP-00995,2026-09-27,Account access,Email,Medium,1.4,5,False,2026-09
+CMP-00494,2026-09-27,Refund delay,Chat,Medium,5.2,3,False,2026-09
+CMP-01291,2026-09-28,Refund delay,Email,Low,3.8,3,False,2026-09
+CMP-00720,2026-09-28,Refund delay,Phone,Medium,3.0,4,False,2026-09
+CMP-00263,2026-09-28,Late delivery,Chat,Medium,5.2,3,True,2026-09
+CMP-00676,2026-09-28,Poor agent communication,Email,Low,1.0,4,False,2026-09
+CMP-00106,2026-09-28,Billing error,Email,Low,2.3,5,False,2026-09
+CMP-00193,2026-09-28,Late delivery,Chat,Medium,4.1,4,False,2026-09
+CMP-01990,2026-09-28,Account access,Chat,Medium,0.9,5,False,2026-09
+CMP-00117,2026-09-28,Poor agent communication,Chat,High,0.8,3,False,2026-09
+CMP-01105,2026-09-28,Billing error,Chat,High,1.6,5,False,2026-09
+CMP-01201,2026-09-28,Late delivery,Phone,Low,5.1,3,False,2026-09
+CMP-01926,2026-09-29,Late delivery,Chat,Low,2.6,4,True,2026-09
+CMP-01408,2026-09-29,Late delivery,Social media,Low,1.3,5,False,2026-09
+CMP-00992,2026-09-29,Late delivery,Phone,Low,2.4,4,False,2026-09
+CMP-00767,2026-09-29,Late delivery,Chat,Medium,2.6,4,False,2026-09
+CMP-00311,2026-09-29,Refund delay,Email,Medium,1.8,4,False,2026-09
+CMP-00383,2026-09-29,Refund delay,Email,Low,4.5,2,False,2026-09
+CMP-01584,2026-09-29,Billing error,Social media,Medium,3.0,4,False,2026-09
+CMP-00730,2026-09-29,Billing error,Chat,Low,1.5,4,False,2026-09
+CMP-01057,2026-09-29,Refund delay,Email,High,14.2,1,False,2026-09
+CMP-01793,2026-09-29,Account access,Email,Medium,2.3,4,False,2026-09
+CMP-01256,2026-09-29,Late delivery,Email,Low,2.7,4,False,2026-09
+CMP-00161,2026-09-29,Late delivery,Phone,Medium,1.8,4,False,2026-09
+CMP-00088,2026-09-29,Billing error,Email,Low,3.6,3,False,2026-09
+CMP-01830,2026-09-30,Refund delay,Email,Low,9.0,1,False,2026-09
+CMP-01600,2026-09-30,Poor agent communication,Phone,Medium,1.1,5,False,2026-09
+CMP-01799,2026-09-30,Poor agent communication,Chat,Low,1.5,3,False,2026-09
+CMP-00602,2026-09-30,Product / service quality,Email,Medium,3.5,3,False,2026-09
+CMP-01313,2026-09-30,Late delivery,Chat,Low,4.4,4,False,2026-09
+CMP-01396,2026-09-30,Late delivery,Chat,Medium,1.7,4,False,2026-09
+CMP-00223,2026-09-30,Refund delay,Email,Low,5.3,3,False,2026-09
+CMP-00986,2026-09-30,Refund delay,Email,High,3.9,2,True,2026-09
+CMP-00050,2026-09-30,Poor agent communication,Email,Low,3.0,2,False,2026-09
+CMP-00930,2026-09-30,Account access,Email,Low,0.7,5,False,2026-09
+CMP-01453,2026-09-30,Late delivery,Chat,Medium,1.4,3,True,2026-09
+CMP-00528,2026-09-30,Account access,Email,Medium,0.7,5,False,2026-09
+CMP-01399,2026-10-01,Late delivery,Chat,High,4.8,3,False,2026-10
+CMP-01609,2026-10-01,Billing error,Social media,Low,2.0,3,False,2026-10
+CMP-01120,2026-10-01,Billing error,Phone,Low,2.6,3,False,2026-10
+CMP-00961,2026-10-01,Billing error,Email,Low,1.8,4,False,2026-10
+CMP-00349,2026-10-01,Late delivery,Phone,Low,6.5,3,True,2026-10
+CMP-00906,2026-10-01,Refund delay,Phone,Medium,5.8,4,False,2026-10
+CMP-00162,2026-10-01,Account access,Email,High,2.0,5,True,2026-10
+CMP-00339,2026-10-01,Refund delay,Email,High,3.6,3,False,2026-10
+CMP-01954,2026-10-01,Product / service quality,Email,Low,2.5,3,False,2026-10
+CMP-01612,2026-10-01,Billing error,Email,Low,4.5,4,True,2026-10
+CMP-00839,2026-10-01,Billing error,Chat,Low,3.0,4,True,2026-10
+CMP-01701,2026-10-02,Late delivery,Email,High,4.5,3,False,2026-10
+CMP-01569,2026-10-02,Billing error,Chat,Medium,3.0,3,False,2026-10
+CMP-00386,2026-10-02,Billing error,Social media,Low,2.4,3,True,2026-10
+CMP-01381,2026-10-02,Product / service quality,Phone,Medium,3.2,4,True,2026-10
+CMP-00124,2026-10-02,Refund delay,Email,Low,8.5,2,True,2026-10
+CMP-00164,2026-10-02,Late delivery,Phone,Low,0.8,5,False,2026-10
+CMP-00471,2026-10-02,Late delivery,Email,Low,2.7,4,False,2026-10
+CMP-00474,2026-10-02,Refund delay,Email,Low,9.0,2,True,2026-10
+CMP-01912,2026-10-02,Billing error,Email,Low,1.3,4,False,2026-10
+CMP-01184,2026-10-02,Product / service quality,Email,Medium,2.3,4,True,2026-10
+CMP-00292,2026-10-03,Late delivery,Chat,High,3.8,3,False,2026-10
+CMP-00674,2026-10-03,Account access,Social media,Low,1.1,4,False,2026-10
+CMP-01823,2026-10-03,Product / service quality,Chat,Medium,4.3,4,True,2026-10
+CMP-01161,2026-10-03,Poor agent communication,Social media,High,4.5,2,True,2026-10
+CMP-01069,2026-10-03,Product / service quality,Phone,Low,2.7,4,True,2026-10
+CMP-01751,2026-10-03,Account access,Chat,Medium,1.0,5,False,2026-10
+CMP-01356,2026-10-03,Account access,Phone,Medium,0.6,5,False,2026-10
+CMP-00751,2026-10-03,Billing error,Social media,Medium,1.4,5,False,2026-10
+CMP-00583,2026-10-03,Late delivery,Social media,Medium,0.9,4,False,2026-10
+CMP-00004,2026-10-03,Late delivery,Phone,Medium,1.3,4,False,2026-10
+CMP-00990,2026-10-03,Late delivery,Email,Medium,5.1,4,False,2026-10
+CMP-01610,2026-10-03,Billing error,Chat,Low,2.3,5,False,2026-10
+CMP-00160,2026-10-03,Late delivery,Chat,Medium,4.0,3,True,2026-10
+CMP-01560,2026-10-03,Late delivery,Email,Low,3.8,4,True,2026-10
+CMP-00645,2026-10-04,Billing error,Email,Medium,2.6,2,False,2026-10
+CMP-00020,2026-10-04,Account access,Chat,Medium,0.6,4,False,2026-10
+CMP-00316,2026-10-04,Poor agent communication,Chat,Low,1.0,4,False,2026-10
+CMP-01311,2026-10-04,Billing error,Phone,Low,3.2,4,False,2026-10
+CMP-01020,2026-10-04,Late delivery,Phone,Medium,2.4,2,False,2026-10
+CMP-01139,2026-10-04,Poor agent communication,Email,Low,0.9,4,False,2026-10
+CMP-01334,2026-10-04,Refund delay,Phone,Medium,4.1,4,False,2026-10
+CMP-01863,2026-10-04,Refund delay,Email,Low,13.5,1,False,2026-10
+CMP-00477,2026-10-04,Product / service quality,Chat,Medium,5.7,3,False,2026-10
+CMP-01707,2026-10-04,Poor agent communication,Email,Low,0.8,5,False,2026-10
+CMP-00536,2026-10-05,Late delivery,Phone,Low,4.3,4,False,2026-10
+CMP-01130,2026-10-05,Late delivery,Email,Low,12.8,1,False,2026-10
+CMP-01047,2026-10-05,Late delivery,Chat,Medium,1.8,4,False,2026-10
+CMP-00481,2026-10-05,Billing error,Phone,Medium,1.7,4,False,2026-10
+CMP-01623,2026-10-05,Poor agent communication,Email,Low,2.1,4,False,2026-10
+CMP-00184,2026-10-05,Refund delay,Social media,High,13.0,1,True,2026-10
+CMP-01916,2026-10-05,Poor agent communication,Email,High,1.0,5,False,2026-10
+CMP-01206,2026-10-05,Account access,Email,Low,1.4,5,False,2026-10
+CMP-01827,2026-10-05,Product / service quality,Email,Low,6.5,4,True,2026-10
+CMP-01002,2026-10-05,Poor agent communication,Phone,Low,2.1,4,False,2026-10
+CMP-00085,2026-10-05,Account access,Email,Low,1.3,4,False,2026-10
+CMP-00433,2026-10-05,Refund delay,Email,Low,2.7,3,False,2026-10
+CMP-00078,2026-10-06,Account access,Phone,Medium,0.4,4,False,2026-10
+CMP-00504,2026-10-06,Refund delay,Email,Medium,3.1,3,False,2026-10
+CMP-00934,2026-10-06,Refund delay,Chat,Medium,12.0,2,False,2026-10
+CMP-01249,2026-10-06,Late delivery,Phone,Low,4.6,3,False,2026-10
+CMP-01675,2026-10-06,Account access,Email,Low,1.0,4,False,2026-10
+CMP-00646,2026-10-06,Product / service quality,Chat,Medium,2.5,4,False,2026-10
+CMP-01557,2026-10-06,Poor agent communication,Chat,High,0.6,5,True,2026-10
+CMP-01726,2026-10-06,Refund delay,Phone,Medium,3.3,3,False,2026-10
+CMP-00017,2026-10-06,Account access,Chat,Medium,0.4,5,False,2026-10
+CMP-00510,2026-10-06,Billing error,Social media,Low,2.2,3,False,2026-10
+CMP-00823,2026-10-06,Product / service quality,Chat,Low,4.4,3,True,2026-10
+CMP-01667,2026-10-06,Late delivery,Chat,Medium,1.4,4,False,2026-10
+CMP-01906,2026-10-06,Late delivery,Chat,Medium,2.5,3,False,2026-10
+CMP-01402,2026-10-07,Late delivery,Email,High,2.7,2,False,2026-10
+CMP-00985,2026-10-07,Poor agent communication,Email,Low,1.1,4,False,2026-10
+CMP-00687,2026-10-07,Poor agent communication,Email,Medium,1.3,4,False,2026-10
+CMP-01976,2026-10-07,Billing error,Chat,Medium,0.7,5,False,2026-10
+CMP-00980,2026-10-07,Product / service quality,Phone,High,2.7,4,False,2026-10
+CMP-01665,2026-10-07,Late delivery,Email,Medium,2.1,4,False,2026-10
+CMP-01071,2026-10-07,Refund delay,Email,Medium,5.3,3,True,2026-10
+CMP-01397,2026-10-07,Billing error,Email,Medium,3.0,4,False,2026-10
+CMP-01660,2026-10-07,Late delivery,Social media,Low,3.2,4,False,2026-10
+CMP-01538,2026-10-07,Product / service quality,Email,Low,2.5,3,True,2026-10
+CMP-00881,2026-10-07,Account access,Email,Medium,2.1,3,False,2026-10
+CMP-00303,2026-10-07,Product / service quality,Phone,Low,5.7,3,False,2026-10
+CMP-01172,2026-10-07,Poor agent communication,Email,High,1.1,5,False,2026-10
+CMP-00379,2026-10-08,Refund delay,Phone,Low,5.0,4,False,2026-10
+CMP-00968,2026-10-08,Refund delay,Chat,Medium,7.3,3,False,2026-10
+CMP-00323,2026-10-08,Product / service quality,Email,Medium,1.6,4,False,2026-10
+CMP-00032,2026-10-08,Late delivery,Email,High,5.2,4,False,2026-10
+CMP-01026,2026-10-08,Late delivery,Chat,High,0.9,5,False,2026-10
+CMP-00949,2026-10-08,Product / service quality,Email,High,3.5,4,True,2026-10
+CMP-00890,2026-10-09,Late delivery,Social media,High,4.0,3,True,2026-10
+CMP-00201,2026-10-09,Poor agent communication,Chat,Low,3.2,3,True,2026-10
+CMP-00102,2026-10-09,Product / service quality,Phone,Medium,1.4,5,False,2026-10
+CMP-01006,2026-10-09,Refund delay,Email,Medium,7.6,2,True,2026-10
+CMP-00629,2026-10-09,Refund delay,Email,Low,6.7,3,True,2026-10
+CMP-00628,2026-10-09,Late delivery,Email,Low,6.1,3,False,2026-10
+CMP-00625,2026-10-10,Product / service quality,Chat,Low,2.7,4,False,2026-10
+CMP-00460,2026-10-10,Billing error,Chat,Low,1.1,4,True,2026-10
+CMP-00407,2026-10-10,Refund delay,Chat,Low,3.4,4,True,2026-10
+CMP-01828,2026-10-10,Account access,Chat,Low,0.6,4,False,2026-10
+CMP-00121,2026-10-10,Late delivery,Chat,Medium,3.0,5,False,2026-10
+CMP-00432,2026-10-10,Late delivery,Phone,Low,1.1,4,False,2026-10
+CMP-00419,2026-10-10,Product / service quality,Phone,High,2.8,3,False,2026-10
+CMP-01180,2026-10-10,Late delivery,Chat,Low,6.2,3,True,2026-10
+CMP-01227,2026-10-10,Account access,Phone,Medium,0.3,5,False,2026-10
+CMP-01504,2026-10-10,Late delivery,Social media,Low,5.9,4,False,2026-10
+CMP-00522,2026-10-10,Product / service quality,Phone,Medium,2.9,5,False,2026-10
+CMP-00882,2026-10-10,Product / service quality,Email,Low,2.4,4,False,2026-10
+CMP-01808,2026-10-10,Late delivery,Chat,Low,3.8,3,False,2026-10
+CMP-00435,2026-10-10,Account access,Phone,Medium,1.7,4,False,2026-10
+CMP-01581,2026-10-11,Account access,Email,Low,0.4,5,False,2026-10
+CMP-01454,2026-10-11,Late delivery,Phone,High,2.4,4,False,2026-10
+CMP-00974,2026-10-11,Refund delay,Chat,Medium,6.8,3,False,2026-10
+CMP-00977,2026-10-11,Billing error,Email,Low,3.0,4,True,2026-10
+CMP-01687,2026-10-11,Product / service quality,Chat,Medium,2.1,4,False,2026-10
+CMP-00354,2026-10-11,Refund delay,Email,Low,3.7,3,False,2026-10
+CMP-00677,2026-10-12,Late delivery,Phone,Medium,0.9,5,False,2026-10
+CMP-01572,2026-10-12,Billing error,Chat,Medium,4.8,3,False,2026-10
+CMP-00659,2026-10-12,Billing error,Chat,Medium,0.6,4,False,2026-10
+CMP-01742,2026-10-12,Refund delay,Phone,Medium,1.3,4,True,2026-10
+CMP-01472,2026-10-12,Product / service quality,Phone,Low,7.4,3,False,2026-10
+CMP-00928,2026-10-12,Refund delay,Chat,Medium,3.7,4,False,2026-10
+CMP-00021,2026-10-12,Late delivery,Phone,Medium,0.9,4,False,2026-10
+CMP-01099,2026-10-13,Account access,Email,Low,1.5,3,True,2026-10
+CMP-01818,2026-10-13,Refund delay,Email,High,9.2,1,True,2026-10
+CMP-01618,2026-10-13,Refund delay,Phone,High,3.9,3,False,2026-10
+CMP-00738,2026-10-13,Product / service quality,Chat,Medium,5.4,3,False,2026-10
+CMP-01016,2026-10-13,Late delivery,Chat,High,2.4,3,False,2026-10
+CMP-01800,2026-10-13,Late delivery,Phone,Low,1.4,4,False,2026-10
+CMP-00173,2026-10-13,Product / service quality,Phone,Low,9.7,2,True,2026-10
+CMP-00476,2026-10-13,Product / service quality,Email,Low,7.0,2,True,2026-10
+CMP-01233,2026-10-13,Late delivery,Chat,Low,1.2,4,False,2026-10
+CMP-00079,2026-10-14,Refund delay,Chat,Low,6.0,2,False,2026-10
+CMP-00940,2026-10-14,Refund delay,Chat,High,8.7,2,False,2026-10
+CMP-01545,2026-10-14,Billing error,Phone,Medium,1.5,5,False,2026-10
+CMP-00752,2026-10-14,Product / service quality,Email,Medium,5.7,4,False,2026-10
+CMP-00413,2026-10-14,Account access,Phone,Medium,0.5,4,False,2026-10
+CMP-01411,2026-10-14,Product / service quality,Email,Medium,2.5,5,True,2026-10
+CMP-00969,2026-10-14,Billing error,Phone,Medium,1.3,5,True,2026-10
+CMP-01121,2026-10-14,Poor agent communication,Chat,Low,2.5,4,False,2026-10
+CMP-00183,2026-10-14,Poor agent communication,Email,Medium,2.3,5,False,2026-10
+CMP-00663,2026-10-14,Late delivery,Email,High,4.2,3,True,2026-10
+CMP-00694,2026-10-14,Late delivery,Email,Medium,4.4,3,True,2026-10
+CMP-00875,2026-10-14,Billing error,Chat,Low,1.1,4,False,2026-10
+CMP-01703,2026-10-14,Late delivery,Chat,Low,3.5,3,False,2026-10
+CMP-01988,2026-10-14,Late delivery,Email,Low,6.0,2,False,2026-10
+CMP-00006,2026-10-14,Poor agent communication,Chat,High,2.2,4,False,2026-10
+CMP-01845,2026-10-14,Poor agent communication,Email,High,1.7,5,True,2026-10
+CMP-01712,2026-10-15,Refund delay,Email,Low,4.8,2,True,2026-10
+CMP-00994,2026-10-15,Account access,Chat,Medium,0.6,4,False,2026-10
+CMP-01663,2026-10-15,Poor agent communication,Social media,Low,2.0,4,False,2026-10
+CMP-01583,2026-10-15,Product / service quality,Social media,Medium,5.2,4,False,2026-10
+CMP-00500,2026-10-15,Late delivery,Phone,Low,2.9,4,True,2026-10
+CMP-01152,2026-10-15,Refund delay,Phone,Medium,6.2,2,True,2026-10
+CMP-01054,2026-10-15,Billing error,Phone,Medium,2.5,3,False,2026-10
+CMP-00903,2026-10-15,Account access,Phone,Medium,0.5,5,True,2026-10
+CMP-00364,2026-10-15,Refund delay,Social media,Medium,5.8,3,True,2026-10
+CMP-00870,2026-10-15,Late delivery,Email,Medium,4.4,3,False,2026-10
+CMP-01895,2026-10-15,Late delivery,Email,Medium,8.9,2,False,2026-10
+CMP-01542,2026-10-15,Late delivery,Chat,Medium,0.9,4,False,2026-10
+CMP-01625,2026-10-15,Product / service quality,Phone,Medium,3.2,4,False,2026-10
+CMP-00733,2026-10-15,Account access,Phone,Low,0.5,4,True,2026-10
+CMP-00064,2026-10-15,Late delivery,Email,Medium,2.4,3,False,2026-10
+CMP-01693,2026-10-15,Billing error,Chat,Low,2.5,4,False,2026-10
+CMP-01045,2026-10-16,Refund delay,Phone,High,3.8,4,False,2026-10
+CMP-01153,2026-10-16,Refund delay,Email,Low,7.3,3,True,2026-10
+CMP-00344,2026-10-16,Billing error,Email,Low,1.2,5,False,2026-10
+CMP-00099,2026-10-16,Late delivery,Phone,High,3.2,3,False,2026-10
+CMP-00248,2026-10-16,Product / service quality,Phone,Medium,3.2,4,False,2026-10
+CMP-00137,2026-10-16,Account access,Chat,Medium,1.0,4,False,2026-10
+CMP-00335,2026-10-16,Account access,Phone,Medium,0.4,5,False,2026-10
+CMP-00318,2026-10-16,Billing error,Phone,Low,3.0,5,False,2026-10
+CMP-01420,2026-10-17,Refund delay,Email,High,4.7,4,True,2026-10
+CMP-01112,2026-10-17,Refund delay,Email,Medium,15.4,1,False,2026-10
+CMP-01278,2026-10-17,Billing error,Chat,Medium,1.7,4,False,2026-10
+CMP-00059,2026-10-17,Account access,Email,Low,2.2,4,True,2026-10
+CMP-01316,2026-10-17,Refund delay,Chat,Medium,3.9,3,False,2026-10
+CMP-00424,2026-10-17,Product / service quality,Chat,Medium,2.1,3,False,2026-10
+CMP-00857,2026-10-17,Refund delay,Email,Medium,20.8,1,True,2026-10
+CMP-00567,2026-10-17,Late delivery,Phone,High,2.0,4,True,2026-10
+CMP-01174,2026-10-17,Account access,Phone,Medium,0.6,5,False,2026-10
+CMP-00033,2026-10-17,Late delivery,Email,Low,2.3,4,False,2026-10
+CMP-00255,2026-10-17,Billing error,Email,Medium,7.7,2,False,2026-10
+CMP-01577,2026-10-17,Billing error,Phone,Medium,1.8,5,False,2026-10
+CMP-00624,2026-10-17,Late delivery,Email,Medium,2.5,3,False,2026-10
+CMP-00834,2026-10-17,Product / service quality,Social media,Medium,3.1,4,False,2026-10
+CMP-01730,2026-10-18,Refund delay,Social media,Medium,1.9,4,True,2026-10
+CMP-01706,2026-10-18,Product / service quality,Chat,Medium,3.0,3,False,2026-10
+CMP-01330,2026-10-18,Late delivery,Email,Low,4.0,4,False,2026-10
+CMP-01776,2026-10-18,Account access,Phone,Medium,0.3,4,False,2026-10
+CMP-00325,2026-10-18,Account access,Social media,Low,1.7,3,False,2026-10
+CMP-00069,2026-10-18,Account access,Chat,Medium,1.2,5,False,2026-10
+CMP-01813,2026-10-18,Refund delay,Phone,Low,6.1,4,False,2026-10
+CMP-00140,2026-10-18,Account access,Chat,Medium,2.4,4,False,2026-10
+CMP-00163,2026-10-18,Poor agent communication,Social media,Low,3.5,3,False,2026-10
+CMP-01515,2026-10-19,Billing error,Social media,Medium,2.0,4,True,2026-10
+CMP-01076,2026-10-19,Account access,Phone,Medium,0.5,3,False,2026-10
+CMP-01764,2026-10-19,Refund delay,Email,Low,7.7,3,True,2026-10
+CMP-01513,2026-10-19,Account access,Email,Medium,0.7,4,False,2026-10
+CMP-01500,2026-10-19,Product / service quality,Email,Low,2.5,4,False,2026-10
+CMP-01862,2026-10-19,Account access,Phone,Medium,1.0,5,False,2026-10
+CMP-00849,2026-10-19,Product / service quality,Social media,Low,3.8,3,False,2026-10
+CMP-01635,2026-10-19,Poor agent communication,Chat,Medium,3.6,4,True,2026-10
+CMP-01505,2026-10-19,Billing error,Chat,Medium,2.3,4,False,2026-10
+CMP-00065,2026-10-19,Billing error,Phone,Medium,2.6,4,False,2026-10
+CMP-00083,2026-10-19,Refund delay,Chat,Low,8.0,3,True,2026-10
+CMP-01831,2026-10-19,Late delivery,Phone,Low,1.6,4,False,2026-10
+CMP-00814,2026-10-19,Billing error,Email,Medium,3.0,4,False,2026-10
+CMP-00921,2026-10-20,Billing error,Social media,Low,1.4,4,False,2026-10
+CMP-00336,2026-10-20,Late delivery,Chat,Low,4.4,2,False,2026-10
+CMP-00783,2026-10-20,Late delivery,Chat,Low,2.4,4,False,2026-10
+CMP-01430,2026-10-20,Billing error,Chat,Medium,1.6,4,False,2026-10
+CMP-01743,2026-10-20,Billing error,Email,Medium,2.5,3,False,2026-10
+CMP-00482,2026-10-20,Billing error,Email,Medium,1.6,4,False,2026-10
+CMP-00427,2026-10-20,Billing error,Email,Medium,3.2,5,False,2026-10
+CMP-01819,2026-10-20,Account access,Chat,Low,2.5,4,False,2026-10
+CMP-01525,2026-10-20,Account access,Social media,Low,1.4,4,False,2026-10
+CMP-00376,2026-10-21,Account access,Email,Medium,0.7,4,False,2026-10
+CMP-01982,2026-10-21,Refund delay,Social media,Low,22.4,1,True,2026-10
+CMP-00175,2026-10-21,Late delivery,Chat,Low,3.6,3,False,2026-10
+CMP-01468,2026-10-21,Late delivery,Social media,High,5.3,3,False,2026-10
+CMP-01882,2026-10-21,Billing error,Chat,Low,0.9,4,False,2026-10
+CMP-00822,2026-10-21,Late delivery,Phone,Low,1.2,5,False,2026-10
+CMP-01859,2026-10-21,Account access,Email,Medium,0.4,4,False,2026-10
+CMP-01713,2026-10-21,Poor agent communication,Phone,High,1.9,5,False,2026-10
+CMP-01193,2026-10-21,Account access,Phone,Low,1.7,4,False,2026-10
+CMP-00538,2026-10-21,Billing error,Chat,Medium,1.4,4,False,2026-10
+CMP-00696,2026-10-22,Refund delay,Phone,Low,7.7,3,True,2026-10
+CMP-00936,2026-10-22,Late delivery,Phone,High,4.6,2,False,2026-10
+CMP-01286,2026-10-22,Poor agent communication,Email,Low,2.1,4,False,2026-10
+CMP-00802,2026-10-22,Late delivery,Social media,Medium,4.8,3,False,2026-10
+CMP-00156,2026-10-22,Account access,Social media,Medium,0.9,4,False,2026-10
+CMP-01418,2026-10-22,Billing error,Email,Low,1.2,5,True,2026-10
+CMP-01060,2026-10-22,Poor agent communication,Chat,High,1.3,4,False,2026-10
+CMP-01484,2026-10-22,Late delivery,Chat,Low,4.6,2,True,2026-10
+CMP-01235,2026-10-22,Late delivery,Email,Medium,4.9,2,False,2026-10
+CMP-01367,2026-10-22,Late delivery,Email,Low,4.0,3,False,2026-10
+CMP-01458,2026-10-22,Refund delay,Email,High,2.2,3,False,2026-10
+CMP-00719,2026-10-22,Product / service quality,Chat,Low,3.2,3,False,2026-10
+CMP-01198,2026-10-23,Account access,Phone,Low,0.9,5,False,2026-10
+CMP-00591,2026-10-23,Product / service quality,Chat,Low,5.2,2,False,2026-10
+CMP-00568,2026-10-23,Refund delay,Chat,Low,3.0,4,True,2026-10
+CMP-00764,2026-10-23,Late delivery,Chat,Low,1.9,3,True,2026-10
+CMP-01064,2026-10-23,Product / service quality,Email,Medium,9.4,2,False,2026-10
+CMP-01177,2026-10-23,Late delivery,Email,Low,3.2,3,False,2026-10
+CMP-00698,2026-10-23,Refund delay,Email,Low,5.3,3,False,2026-10
+CMP-01299,2026-10-23,Product / service quality,Chat,High,3.2,3,False,2026-10
+CMP-01520,2026-10-23,Late delivery,Email,Medium,1.7,3,True,2026-10
+CMP-00398,2026-10-24,Late delivery,Phone,High,3.7,3,False,2026-10
+CMP-00773,2026-10-24,Billing error,Chat,Low,4.7,4,False,2026-10
+CMP-01849,2026-10-24,Billing error,Chat,Medium,0.9,4,False,2026-10
+CMP-00082,2026-10-24,Account access,Chat,Low,0.9,5,False,2026-10
+CMP-00967,2026-10-24,Billing error,Phone,Medium,1.5,3,False,2026-10
+CMP-01549,2026-10-24,Late delivery,Email,Medium,4.9,4,False,2026-10
+CMP-01970,2026-10-24,Product / service quality,Phone,Low,5.8,4,True,2026-10
+CMP-01792,2026-10-24,Billing error,Email,Medium,2.0,3,False,2026-10
+CMP-00464,2026-10-24,Billing error,Phone,Low,1.9,5,False,2026-10
+CMP-01384,2026-10-24,Product / service quality,Chat,Low,9.2,3,False,2026-10
+CMP-00441,2026-10-24,Refund delay,Phone,Medium,2.8,5,False,2026-10
+CMP-01072,2026-10-25,Poor agent communication,Social media,Low,2.3,5,True,2026-10
+CMP-01940,2026-10-25,Product / service quality,Email,Low,7.3,1,False,2026-10
+CMP-00429,2026-10-25,Product / service quality,Email,Low,3.4,3,False,2026-10
+CMP-01151,2026-10-25,Billing error,Chat,Medium,0.7,5,False,2026-10
+CMP-00616,2026-10-25,Poor agent communication,Phone,Low,2.0,3,False,2026-10
+CMP-01973,2026-10-25,Account access,Chat,Low,0.4,4,False,2026-10
+CMP-00805,2026-10-25,Poor agent communication,Email,Medium,1.6,4,False,2026-10
+CMP-00317,2026-10-25,Account access,Phone,Medium,0.6,5,False,2026-10
+CMP-00057,2026-10-25,Poor agent communication,Email,Low,1.3,4,True,2026-10
+CMP-00941,2026-10-26,Refund delay,Chat,High,16.4,1,False,2026-10
+CMP-00483,2026-10-26,Billing error,Email,Low,4.9,3,True,2026-10
+CMP-01008,2026-10-26,Late delivery,Chat,Low,3.2,5,True,2026-10
+CMP-01692,2026-10-26,Late delivery,Email,Low,3.0,2,False,2026-10
+CMP-01636,2026-10-26,Late delivery,Email,Low,4.1,4,True,2026-10
+CMP-00350,2026-10-26,Billing error,Phone,Low,1.2,5,False,2026-10
+CMP-01273,2026-10-26,Product / service quality,Phone,Low,1.5,4,False,2026-10
+CMP-00975,2026-10-26,Billing error,Email,Medium,2.4,3,False,2026-10
+CMP-00792,2026-10-27,Late delivery,Email,Low,1.7,3,False,2026-10
+CMP-01434,2026-10-27,Poor agent communication,Chat,Low,1.5,5,False,2026-10
+CMP-01335,2026-10-27,Refund delay,Social media,Low,4.2,4,False,2026-10
+CMP-00732,2026-10-27,Billing error,Phone,Low,2.5,4,False,2026-10
+CMP-01314,2026-10-27,Product / service quality,Email,Low,4.5,4,False,2026-10
+CMP-00954,2026-10-27,Late delivery,Chat,Low,7.1,4,False,2026-10
+CMP-01987,2026-10-27,Late delivery,Email,Medium,4.7,3,True,2026-10
+CMP-01260,2026-10-27,Account access,Email,Low,2.4,3,False,2026-10
+CMP-00100,2026-10-27,Late delivery,Email,Medium,3.0,5,False,2026-10
+CMP-01479,2026-10-27,Account access,Chat,Low,1.5,4,False,2026-10
+CMP-00610,2026-10-28,Billing error,Chat,High,0.6,5,False,2026-10
+CMP-00879,2026-10-28,Late delivery,Email,High,1.2,4,False,2026-10
+CMP-00430,2026-10-28,Refund delay,Chat,Low,5.1,4,False,2026-10
+CMP-01398,2026-10-28,Product / service quality,Email,High,3.7,3,False,2026-10
+CMP-01913,2026-10-28,Refund delay,Phone,Medium,3.8,4,False,2026-10
+CMP-01768,2026-10-28,Billing error,Phone,Medium,1.3,4,False,2026-10
+CMP-01735,2026-10-29,Billing error,Chat,High,3.4,4,True,2026-10
+CMP-01254,2026-10-29,Late delivery,Chat,Low,2.4,4,False,2026-10
+CMP-00439,2026-10-29,Refund delay,Chat,Low,4.0,3,False,2026-10
+CMP-01591,2026-10-29,Billing error,Email,Low,6.8,3,True,2026-10
+CMP-00690,2026-10-29,Account access,Chat,Low,0.7,4,False,2026-10
+CMP-01459,2026-10-29,Account access,Phone,Medium,0.7,4,True,2026-10
+CMP-01684,2026-10-29,Late delivery,Email,Low,4.2,4,False,2026-10
+CMP-01683,2026-10-29,Product / service quality,Social media,Low,7.4,2,False,2026-10
+CMP-00878,2026-10-29,Late delivery,Email,Medium,11.2,1,False,2026-10
+CMP-00765,2026-10-29,Billing error,Email,Low,2.9,4,False,2026-10
+CMP-00678,2026-10-29,Refund delay,Social media,Medium,3.8,3,False,2026-10
+CMP-00958,2026-10-29,Account access,Email,Low,1.1,4,False,2026-10
+CMP-00012,2026-10-29,Billing error,Phone,High,1.2,4,False,2026-10
+CMP-00358,2026-10-29,Refund delay,Phone,Medium,3.7,4,True,2026-10
+CMP-00894,2026-10-30,Billing error,Chat,Low,2.6,3,False,2026-10
+CMP-01531,2026-10-30,Billing error,Email,Medium,1.6,4,False,2026-10
+CMP-01616,2026-10-30,Late delivery,Phone,Medium,7.1,1,False,2026-10
+CMP-01081,2026-10-30,Account access,Chat,Low,1.1,4,False,2026-10
+CMP-00793,2026-10-30,Account access,Chat,Low,0.6,4,False,2026-10
+CMP-01111,2026-10-30,Late delivery,Chat,Low,1.5,2,False,2026-10
+CMP-01931,2026-10-30,Poor agent communication,Email,Medium,2.2,5,False,2026-10
+CMP-00394,2026-10-30,Product / service quality,Chat,High,4.2,4,True,2026-10
+CMP-01270,2026-10-30,Refund delay,Chat,Low,2.4,3,False,2026-10
+CMP-01855,2026-10-31,Refund delay,Email,Low,4.3,4,False,2026-10
+CMP-00885,2026-10-31,Late delivery,Phone,High,5.1,2,False,2026-10
+CMP-01138,2026-10-31,Billing error,Email,Low,5.4,4,True,2026-10
+CMP-00609,2026-10-31,Account access,Email,Low,1.3,4,False,2026-10
+CMP-01215,2026-10-31,Account access,Phone,Medium,1.1,5,False,2026-10
+CMP-01412,2026-10-31,Product / service quality,Phone,Low,1.9,3,False,2026-10
+CMP-01243,2026-10-31,Refund delay,Email,Low,8.8,3,False,2026-10
+CMP-01088,2026-10-31,Refund delay,Phone,Medium,7.4,2,False,2026-10
+CMP-00098,2026-10-31,Billing error,Phone,Low,1.4,5,False,2026-10
+CMP-01423,2026-10-31,Poor agent communication,Phone,Low,0.4,5,False,2026-10
+CMP-01294,2026-10-31,Account access,Chat,Low,1.8,3,False,2026-10
+CMP-00312,2026-10-31,Billing error,Chat,Low,1.5,4,True,2026-10
+CMP-00704,2026-10-31,Poor agent communication,Chat,Low,1.9,3,False,2026-10
+CMP-00260,2026-10-31,Billing error,Email,Low,1.5,4,False,2026-10
+CMP-00139,2026-10-31,Refund delay,Chat,Low,4.8,4,False,2026-10
+CMP-00816,2026-10-31,Product / service quality,Chat,Low,1.9,3,False,2026-10
+CMP-01245,2026-10-31,Refund delay,Email,Low,18.0,1,True,2026-10
